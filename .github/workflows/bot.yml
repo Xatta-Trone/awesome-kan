@@ -1,7 +1,7 @@
 name: "🤖 GitHub Actions Bot 🤖"
 on:
     push:
-        branches: ['feat/add-automation']
+        branches: ['main']
     schedule:
     - cron: "0 0 * * *"
     workflow_dispatch:
@@ -19,7 +19,7 @@ jobs:
             node-version: 18.x
       - run: npm ci
       - run: git pull
-      - run: node 1-parse-papers.js
+      - run: node 1-arxiv-parser.js
       - run: node 2-update-readme.js
       - run: |
             git config user.name  "xatta-trone"
