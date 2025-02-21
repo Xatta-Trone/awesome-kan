@@ -17,8 +17,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
             node-version: 18.x
-      - run: npm ci
       - run: git pull
+      - run: npm ci --prefix parser
       - run: parser/node 1-arxiv-parser.js
       - run: parser/node 2-update-readme.js
       - run: |
