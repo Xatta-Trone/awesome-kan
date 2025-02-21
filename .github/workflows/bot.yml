@@ -1,0 +1,29 @@
+name: "🤖 GitHub Actions Bot 🤖"
+on:
+    push:
+        branches: ['main']
+    schedule:
+    - cron: "0 0 * * *"
+    workflow_dispatch:
+
+jobs:
+  cronJob:
+    name: "Update Papers JSON"
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v4
+        with:
+            node-version: 18.x
+      - run: npm ci
+      - run: git pull
+      - run: node 1-arxiv-parser.js
+      - run: node 2-update-readme.js
+      - run: |
+            git config user.name  "xatta-trone"
+            git config user.email "22274105+actions-user@users.noreply.github.com"
+            git add -f 'readme.md'
+            git commit -m "🤖 Auto commit by Gihub Actions Bot 🤖"
+            git push --force
