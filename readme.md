@@ -10,6 +10,8 @@ A carefully curated collection of exceptional libraries, projects, tutorials, re
 Our repository is **automatically updated** with the latest **KAN-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything KAN-related.
 
 
+## Last Updated
+February 21, 2025 at 06:14:08 AM UTC
 
 
 ## Table of Contents
@@ -37,46 +39,46 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
 ## Papers
-
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
-- [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674) | [code](https://github.com/yu-rp/KANbeFair)
-- [DropKAN: Regularizing KANs by masking post-activations](https://arxiv.org/abs/2407.13044) | [code](https://github.com/Ghaith81/dropkan)
-- [Rethinking the Function of Neurons in KANs](https://arxiv.org/abs/2407.20667) | [code](https://github.com/Ghaith81/dropkan)
-- [CoxKAN: Kolmogorov-Arnold Networks for Interpretable, High-Performance Survival Analysis](https://arxiv.org/abs/2409.04290) | [code](https://github.com/knottwill/coxkan)
-- [RKAN: Residual Kolmogorov-Arnold Network](https://arxiv.org/abs/2410.05500) | [code](https://github.com/withray/residualKAN)
-- [Kolmogorov-Arnold Transformer](https://arxiv.org/abs/2409.10594) | [code](https://github.com/Adamdad/kat)
+- [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
+- [DropKAN: Regularizing KANs by masking post-activations](https://arxiv.org/abs/2407.13044)
+- [Rethinking the Function of Neurons in KANs](https://arxiv.org/abs/2407.20667)
+- [CoxKAN: Kolmogorov-Arnold Networks for Interpretable, High-Performance Survival Analysis](https://arxiv.org/abs/2409.04290)
+- [RKAN: Residual Kolmogorov-Arnold Network](https://arxiv.org/abs/2410.05500)
+- [Kolmogorov-Arnold Transformer](https://arxiv.org/abs/2409.10594)
 - [Effective Integration of KAN for Keyword Spotting](https://arxiv.org/abs/2409.08605)
 - [Chebyshev Polynomial-Based Kolmogorov-Arnold Networks](https://arxiv.org/html/2405.07200)
-- [Kolmogorov Arnold Informed Neural Network: A physics-informed deep learning framework for solving PDEs](https://arxiv.org/abs/2406.11045) | [code](https://github.com/yizheng-wang/research-on-solving-partial-differential-equations-of-solid-mechanics-based-on-pinn)
-- [Convolutional Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.13155) | [code](https://github.com/AntonioTepsich/Convolutional-KANs)
-- [Kolmogorov-Arnold Convolutions: Design Principles and Empirical Studies](https://arxiv.org/abs/2407.01092) | [code](https://github.com/IvanDrokin/torch-conv-kan)
+- [Kolmogorov Arnold Informed Neural Network: A physics-informed deep learning framework for solving PDEs](https://arxiv.org/abs/2406.11045)
+- [Convolutional Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.13155)
+- [Kolmogorov-Arnold Convolutions: Design Principles and Empirical Studies](https://arxiv.org/abs/2407.01092)
 - [Smooth Kolmogorov Arnold Networks Enabling Structural Knowledge Representation](https://arxiv.org/abs/2405.11318)
-- [TKAN: Temporal Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.07344) | [code](https://github.com/remigenet/tkan)
-- [ReLU-KAN: New Kolmogorov-Arnold Networks that Only Need Matrix Addition, Dot Multiplication, and ReLU](https://arxiv.org/abs/2406.02075) | [code](https://github.com/quiqi/relu_kan)
-- [U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation](https://arxiv.org/abs/2406.02918) | [code](https://github.com/CUHK-AIM-Group/U-KAN)
+- [TKAN: Temporal Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.07344)
+- [ReLU-KAN: New Kolmogorov-Arnold Networks that Only Need Matrix Addition, Dot Multiplication, and ReLU](https://arxiv.org/abs/2406.02075)
+- [U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation](https://arxiv.org/abs/2406.02918)
 - [Kolmogorov-Arnold Networks (KANs) for Time Series Analysis](https://arxiv.org/abs/2405.08790)
 - [Wav-KAN: Wavelet Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.12832)
-- [A First Look at Kolmogorov-Arnold Networks in Surrogate-Assisted Evolutionary Algorithms](https://arxiv.org/abs/2405.16494) | [code](https://github.com/hhyqhh/KAN-EA)
-- [FourierKAN-GCF: Fourier Kolmogorov-Arnold Network for Graph Collaborative Filtering](https://arxiv.org/abs/2406.01034) | [code](https://github.com/Jinfeng-Xu/FKAN-GCF)
-- [A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting](https://arxiv.org/abs/2406.02486) | [code](https://github.com/remigenet/TKAT)
-- [fKAN: Fractional Kolmogorov-Arnold Networks with Trainable Jacobi Basis Functions](https://arxiv.org/abs/2406.07456) | [code](https://github.com/alirezaafzalaghaei/fKAN)
-- [BSRBF-KAN: A Combination of B-Splines and Radial Basis Functions in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.11173) | [code](https://github.com/hoangthangta/BSRBF_KAN)
-- [GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks](https://arxiv.org/abs/2406.13597) | [code](https://github.com/Ryanfzhang/GraphKan)
-- [rKAN: Rational Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.14495) | [code](https://github.com/alirezaafzalaghaei/rKAN)
-- [SigKAN: Signature-Weighted Kolmogorov-Arnold Networks for Time Series](https://arxiv.org/abs/2406.17890) | [code](https://github.com/remigenet/SigKAN)
+- [A First Look at Kolmogorov-Arnold Networks in Surrogate-Assisted Evolutionary Algorithms](https://arxiv.org/abs/2405.16494)
+- [FourierKAN-GCF: Fourier Kolmogorov-Arnold Network for Graph Collaborative Filtering](https://arxiv.org/abs/2406.01034)
+- [A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting](https://arxiv.org/abs/2406.02486)
+- [fKAN: Fractional Kolmogorov-Arnold Networks with Trainable Jacobi Basis Functions](https://arxiv.org/abs/2406.07456)
+- [BSRBF-KAN: A Combination of B-Splines and Radial Basis Functions in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.11173)
+- [GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks](https://arxiv.org/abs/2406.13597)
+- [rKAN: Rational Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.14495)
+- [SigKAN: Signature-Weighted Kolmogorov-Arnold Networks for Time Series](https://arxiv.org/abs/2406.17890)
 - [KAN-AD: Time Series Anomaly Detection with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.00278)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
-- [HyperKAN: Kolmogorov–Arnold Networks Make Hyperspectral Image Classifiers Smarter](https://www.mdpi.com/1424-8220/24/23/7683) | [code](https://github.com/f-neumann77/HyperKAN)
-- [PRKAN: Parameter-Reduced Kolmogorov-Arnold Networks](https://arxiv.org/abs/2501.07032) | [code](https://github.com/hoangthangta/All-KAN)
-- [HKAN: Hierarchical Kolmogorov-Arnold Network Without Backpropagation](https://arxiv.org/abs/2501.18199) | [code](https://github.com/rodakt/hkan)
+- [HyperKAN: Kolmogorov–Arnold Networks Make Hyperspectral Image Classifiers Smarter](https://www.mdpi.com/1424-8220/24/23/7683)
+- [PRKAN: Parameter-Reduced Kolmogorov-Arnold Networks](https://arxiv.org/abs/2501.07032)
+- [HKAN: Hierarchical Kolmogorov-Arnold Network Without Backpropagation](https://arxiv.org/abs/2501.18199)
 - [Low Tensor-Rank Adaptation of Kolmogorov--Arnold Networks](https://arxiv.org/abs/2502.06153)
 - [Kolmogorov-Arnold Fourier Networks](https://arxiv.org/abs/2502.06018)
+- [New AI-Based Detection Method](https://arxiv.org/abs/1234.56789)
+- [Deep Learning for Vision Systems](https://arxiv.org/abs/9876.54321)
+
 
 
 ## Library
-
-
 - [xKAN](https://github.com/mlsquare/xKAN) - An advanced implementation of KAN incorporating multiple basis functions such as B-Splines, Fourier, Chebyshev, and Wavelets.
 - [RBF-KAN](https://github.com/Sid2690/RBF-KAN) - A PyTorch-based Kolmogorov-Arnold Network utilizing Radial Basis Functions (RBF) for enhanced performance.
 - [GraphKAN](https://github.com/WillHua127/GraphKAN-Graph-Kolmogorov-Arnold-Networks) - A specialized KAN library adapted for Graph Neural Networks (GNNs), enabling graph-based learning tasks.
@@ -178,3 +180,6 @@ If you find this collection useful, consider checking out the original **Awesome
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Xatta-Trone/awesome-kan)](https://star-history.com/#Xatta-Trone/awesome-kan&Date)
+
+
+### Last Updated: February 21, 2025 at 06:06:47 AM UTC
