@@ -182,5 +182,3 @@ If you find this collection useful, consider checking out the original **Awesome
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Xatta-Trone/awesome-kan)](https://star-history.com/#Xatta-Trone/awesome-kan&Date)
 
-
-### Last Updated: February 21, 2025 at 06:06:47 AM UTC
