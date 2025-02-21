@@ -19,8 +19,8 @@ jobs:
             node-version: 18.x
       - run: git pull
       - run: npm ci --prefix parser
-      - run: parser/node 1-arxiv-parser.js
-      - run: parser/node 2-update-readme.js
+      - run: node parser/1-arxiv-parser.js
+      - run: node parser/2-update-readme.js
       - run: |
             git config user.name  "xatta-trone"
             git config user.email "22274105+actions-user@users.noreply.github.com"
