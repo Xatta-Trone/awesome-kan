@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-February 21, 2025 at 06:14:08 AM UTC
+February 21, 2025 at 06:21:37 AM UTC
 
 
 ## Table of Contents
@@ -75,7 +75,8 @@ February 21, 2025 at 06:14:08 AM UTC
 - [Kolmogorov-Arnold Fourier Networks](https://arxiv.org/abs/2502.06018)
 - [New AI-Based Detection Method](https://arxiv.org/abs/1234.56789)
 - [Deep Learning for Vision Systems](https://arxiv.org/abs/9876.54321)
-
+- [seqKAN: Sequence processing with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2502.14681)
+- [KAA: Kolmogorov-Arnold Attention for Enhancing Attentive Graph Neural Networks](https://arxiv.org/abs/2501.13456)
 
 
 ## Library
