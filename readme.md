@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-February 23, 2025 at 12:49:02 AM UTC
+February 24, 2025 at 12:46:30 AM UTC
 
 
 ## Table of Contents
