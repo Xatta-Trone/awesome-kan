@@ -40,28 +40,31 @@ import fs from "fs";
     // Extract titles, links, and submission dates of papers
     const papers = await page.evaluate(
       (todayFormatted, yesterdayFormatted) => {
-        return Array.from(document.querySelectorAll("li.arxiv-result"))
-          .map((item) => {
-            const submittedDateElement = item.querySelector("p.is-size-7");
-            const submittedDate = submittedDateElement
-              ? submittedDateElement.textContent.trim()
-              : "N/A";
+        return (
+          Array.from(document.querySelectorAll("li.arxiv-result"))
+            .map((item) => {
+              const submittedDateElement = item.querySelector("p.is-size-7");
+              const submittedDate = submittedDateElement
+                ? submittedDateElement.textContent.trim()
+                : "N/A";
 
-            return {
-              title: item.querySelector(".title")?.textContent.trim() || "N/A",
-              link: item.querySelector(".list-title a")?.href || "N/A",
-              submittedDate,
-            };
-          })
-          .filter(
-            (paper) =>
-              paper.submittedDate.includes(todayFormatted) ||
-              paper.submittedDate.includes(yesterdayFormatted)
-          ) // Match today's or yesterday's date
-          .map(({ title, link }) => ({
-            title,
-            link,
-          })); // Remove submittedDate from final output
+              return {
+                title:
+                  item.querySelector(".title")?.textContent.trim() || "N/A",
+                link: item.querySelector(".list-title a")?.href || "N/A",
+                submittedDate,
+              };
+            })
+            // .filter(
+            //   (paper) =>
+            //     paper.submittedDate.includes(todayFormatted) ||
+            //     paper.submittedDate.includes(yesterdayFormatted)
+            // ) // Match today's or yesterday's date
+            .map(({ title, link }) => ({
+              title,
+              link,
+            }))
+        ); // Remove submittedDate from final output
       },
       todayFormatted,
       yesterdayFormatted
