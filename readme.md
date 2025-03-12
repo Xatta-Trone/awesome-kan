@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-March 11, 2025 at 12:46:50 AM UTC
+March 12, 2025 at 12:46:03 AM UTC
 
 
 ## Table of Contents
@@ -266,6 +266,9 @@ March 11, 2025 at 12:46:50 AM UTC
 - [Data-driven model discovery with Kolmogorov-Arnold networks](https://arxiv.org/abs/2409.15167)
 - [ASPINN: An asymptotic strategy for solving singularly perturbed differential equations](https://arxiv.org/abs/2409.13185)
 - [Can KAN CANs? Input-convex Kolmogorov-Arnold Networks (KANs) as hyperelastic constitutive artificial neural networks (CANs)](https://arxiv.org/abs/2503.05617)
+- [NukesFormers: Unpaired Hyperspectral Image Generation with Non-Uniform Domain Alignment](https://arxiv.org/abs/2503.07004)
+- [Exploring Adversarial Transferability between Kolmogorov-arnold Networks](https://arxiv.org/abs/2503.06276)
+- [AF-KAN: Activation Function-Based Kolmogorov-Arnold Networks for Efficient Representation Learning](https://arxiv.org/abs/2503.06112)
 
 
 ## Library
