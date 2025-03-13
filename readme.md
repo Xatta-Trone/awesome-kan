@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-March 12, 2025 at 12:46:03 AM UTC
+March 13, 2025 at 12:47:14 AM UTC
 
 
 ## Table of Contents
@@ -269,6 +269,7 @@ March 12, 2025 at 12:46:03 AM UTC
 - [NukesFormers: Unpaired Hyperspectral Image Generation with Non-Uniform Domain Alignment](https://arxiv.org/abs/2503.07004)
 - [Exploring Adversarial Transferability between Kolmogorov-arnold Networks](https://arxiv.org/abs/2503.06276)
 - [AF-KAN: Activation Function-Based Kolmogorov-Arnold Networks for Efficient Representation Learning](https://arxiv.org/abs/2503.06112)
+- [On the analog of the Kolmogorov-Arnold superposition representation for continuous functions of several pp-adic variables](https://arxiv.org/abs/2503.08547)
 
 
 ## Library
