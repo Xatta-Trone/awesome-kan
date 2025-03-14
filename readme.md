@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-March 13, 2025 at 12:47:14 AM UTC
+March 14, 2025 at 12:46:00 AM UTC
 
 
 ## Table of Contents
@@ -270,6 +270,7 @@ March 13, 2025 at 12:47:14 AM UTC
 - [Exploring Adversarial Transferability between Kolmogorov-arnold Networks](https://arxiv.org/abs/2503.06276)
 - [AF-KAN: Activation Function-Based Kolmogorov-Arnold Networks for Efficient Representation Learning](https://arxiv.org/abs/2503.06112)
 - [On the analog of the Kolmogorov-Arnold superposition representation for continuous functions of several pp-adic variables](https://arxiv.org/abs/2503.08547)
+- [KAN-Mixers: a new deep learning architecture for image classification](https://arxiv.org/abs/2503.08939)
 
 
 ## Library
