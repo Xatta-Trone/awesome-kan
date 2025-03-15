@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-March 14, 2025 at 12:46:00 AM UTC
+March 15, 2025 at 12:45:36 AM UTC
 
 
 ## Table of Contents
@@ -271,6 +271,8 @@ March 14, 2025 at 12:46:00 AM UTC
 - [AF-KAN: Activation Function-Based Kolmogorov-Arnold Networks for Efficient Representation Learning](https://arxiv.org/abs/2503.06112)
 - [On the analog of the Kolmogorov-Arnold superposition representation for continuous functions of several pp-adic variables](https://arxiv.org/abs/2503.08547)
 - [KAN-Mixers: a new deep learning architecture for image classification](https://arxiv.org/abs/2503.08939)
+- [Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision Transformers?](https://arxiv.org/abs/2503.10632)
+- [Extracting Transport Properties of Quark-Gluon Plasma from the Heavy-Quark Potential With Neural Networks in a Holographic Model](https://arxiv.org/abs/2503.10213)
 
 
 ## Library
