@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-March 18, 2025 at 12:47:15 AM UTC
+March 19, 2025 at 12:47:48 AM UTC
 
 
 ## Table of Contents
@@ -273,6 +273,11 @@ March 18, 2025 at 12:47:15 AM UTC
 - [KAN-Mixers: a new deep learning architecture for image classification](https://arxiv.org/abs/2503.08939)
 - [Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision Transformers?](https://arxiv.org/abs/2503.10632)
 - [Extracting Transport Properties of Quark-Gluon Plasma from the Heavy-Quark Potential With Neural Networks in a Holographic Model](https://arxiv.org/abs/2503.10213)
+- [From Zero to Detail: Deconstructing Ultra-High-Definition Image Restoration from Progressive Spectral Perspective](https://arxiv.org/abs/2503.13165)
+- [A Comprehensive Overview and Comparative Analysis on Deep Learning Models: CNN, RNN, LSTM, GRU](https://arxiv.org/abs/2305.17473)
+- [P1-KAN: an effective Kolmogorov-Arnold network with application to hydraulic valley optimization](https://arxiv.org/abs/2410.03801)
+- [HyperKAN: Hypergraph Representation Learning with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2503.12365)
+- [Color Matching Using Hypernetwork-Based Kolmogorov-Arnold Networks](https://arxiv.org/abs/2503.11781)
 
 
 ## Library
