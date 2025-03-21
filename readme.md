@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-March 20, 2025 at 12:46:28 AM UTC
+March 21, 2025 at 12:48:06 AM UTC
 
 
 ## Table of Contents
@@ -279,6 +279,8 @@ March 20, 2025 at 12:46:28 AM UTC
 - [HyperKAN: Hypergraph Representation Learning with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2503.12365)
 - [Color Matching Using Hypernetwork-Based Kolmogorov-Arnold Networks](https://arxiv.org/abs/2503.11781)
 - [KANITE: Kolmogorov-Arnold Networks for ITE estimation](https://arxiv.org/abs/2503.13912)
+- [Kolmogorov-Arnold Network for Transistor Compact Modeling](https://arxiv.org/abs/2503.15209)
+- [Semi-KAN: KAN Provides an Effective Representation for Semi-Supervised Learning in Medical Image Segmentation](https://arxiv.org/abs/2503.14983)
 
 
 ## Library
