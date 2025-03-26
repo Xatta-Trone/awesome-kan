@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-March 25, 2025 at 12:48:33 AM UTC
+March 26, 2025 at 12:47:50 AM UTC
 
 
 ## Table of Contents
@@ -281,6 +281,9 @@ March 25, 2025 at 12:48:33 AM UTC
 - [KANITE: Kolmogorov-Arnold Networks for ITE estimation](https://arxiv.org/abs/2503.13912)
 - [Kolmogorov-Arnold Network for Transistor Compact Modeling](https://arxiv.org/abs/2503.15209)
 - [Semi-KAN: KAN Provides an Effective Representation for Semi-Supervised Learning in Medical Image Segmentation](https://arxiv.org/abs/2503.14983)
+- [Surrogate Learning in Meta-Black-Box Optimization: A Preliminary Study](https://arxiv.org/abs/2503.18060)
+- [On the analog of the Kolmogorov-Arnold superposition representation for continuous functions of several ppp-adic variables](https://arxiv.org/abs/2503.08547)
+- [Identifying Ising and percolation phase transitions based on KAN method](https://arxiv.org/abs/2503.17996)
 
 
 ## Library
