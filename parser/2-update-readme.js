@@ -30,7 +30,8 @@ if (!readmeContent.includes("## Papers")) {
 }
 
 // Extract the "Papers" section
-const papersSectionRegex = /(## Papers[\s\S]*?)(\n##|\n$)/;
+// const papersSectionRegex = /(## Papers[\s\S]*?)(\n##|\n$)/;
+const papersSectionRegex = /(## Papers(?: \(\d+\))?[\s\S]*?)(\n##|\n$)/;
 const match = readmeContent.match(papersSectionRegex);
 let papersSection = match ? match[1].trim() : "## Papers";
 
@@ -47,8 +48,9 @@ papers.forEach(({ title, link }) => {
   }
 });
 
+const paperCount = existingPapersSet.size;
 // Reconstruct the "Papers" section with no extra blank lines
-papersSection = `## Papers\n` + [...existingPapersSet].join("\n");
+papersSection = `## Papers (${paperCount})\n` + [...existingPapersSet].join("\n");
 
 // Update README content
 readmeContent = readmeContent
