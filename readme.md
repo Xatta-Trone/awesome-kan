@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-March 26, 2025 at 03:07:33 PM UTC
+March 26, 2025 at 03:08:38 PM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ March 26, 2025 at 03:07:33 PM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (245)
+## Papers (246)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -284,6 +284,7 @@ March 26, 2025 at 03:07:33 PM UTC
 - [Surrogate Learning in Meta-Black-Box Optimization: A Preliminary Study](https://arxiv.org/abs/2503.18060)
 - [On the analog of the Kolmogorov-Arnold superposition representation for continuous functions of several ppp-adic variables](https://arxiv.org/abs/2503.08547)
 - [Identifying Ising and percolation phase transitions based on KAN method](https://arxiv.org/abs/2503.17996)
+- [Prompt-Guided Dual-Path UNet with Mamba for Medical Image Segmentation](https://arxiv.org/abs/2503.19589)
 
 
 ## Library
