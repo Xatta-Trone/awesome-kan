@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-April 1, 2025 at 12:55:29 AM UTC
+April 2, 2025 at 12:49:23 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ April 1, 2025 at 12:55:29 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (250)
+## Papers (254)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -289,6 +289,10 @@ April 1, 2025 at 12:55:29 AM UTC
 - [Adaptive Variational Quantum Kolmogorov-Arnold Network](https://arxiv.org/abs/2503.21336)
 - [KAC: Kolmogorov-Arnold Classifier for Continual Learning](https://arxiv.org/abs/2503.21076)
 - [Enhanced Variational Quantum Kolmogorov-Arnold Network](https://arxiv.org/abs/2503.22604)
+- [Introducing the Short-Time Fourier Kolmogorov Arnold Network: A Dynamic Graph CNN Approach for Tree Species Classification in 3D Point Clouds](https://arxiv.org/abs/2503.23647)
+- [Enhancing Physics-Informed Neural Networks with a Hybrid Parallel Kolmogorov-Arnold and MLP Architecture](https://arxiv.org/abs/2503.23289)
+- [Function Fitting Based on Kolmogorov-Arnold Theorem and Kernel Functions](https://arxiv.org/abs/2503.23038)
+- [Graph Kolmogorov-Arnold Networks for Multi-Cancer Classification and Biomarker Identification, An Interpretable Multi-Omics Approach](https://arxiv.org/abs/2503.22939)
 
 
 ## Library
