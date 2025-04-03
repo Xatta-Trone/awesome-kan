@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-April 2, 2025 at 12:49:23 AM UTC
+April 3, 2025 at 12:48:03 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ April 2, 2025 at 12:49:23 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (254)
+## Papers (256)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -293,6 +293,8 @@ April 2, 2025 at 12:49:23 AM UTC
 - [Enhancing Physics-Informed Neural Networks with a Hybrid Parallel Kolmogorov-Arnold and MLP Architecture](https://arxiv.org/abs/2503.23289)
 - [Function Fitting Based on Kolmogorov-Arnold Theorem and Kernel Functions](https://arxiv.org/abs/2503.23038)
 - [Graph Kolmogorov-Arnold Networks for Multi-Cancer Classification and Biomarker Identification, An Interpretable Multi-Omics Approach](https://arxiv.org/abs/2503.22939)
+- [GKAN: Explainable Diagnosis of Alzheimer's Disease Using Graph Neural Network with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2504.00946)
+- [Advancing Cosmological Parameter Estimation and Hubble Parameter Reconstruction with Long Short-Term Memory and Efficient-Kolmogorov-Arnold Networks](https://arxiv.org/abs/2504.00392)
 
 
 ## Library
