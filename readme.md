@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-April 8, 2025 at 12:48:21 AM UTC
+April 9, 2025 at 12:48:59 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ April 8, 2025 at 12:48:21 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (256)
+## Papers (263)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -295,6 +295,13 @@ April 8, 2025 at 12:48:21 AM UTC
 - [Graph Kolmogorov-Arnold Networks for Multi-Cancer Classification and Biomarker Identification, An Interpretable Multi-Omics Approach](https://arxiv.org/abs/2503.22939)
 - [GKAN: Explainable Diagnosis of Alzheimer's Disease Using Graph Neural Network with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2504.00946)
 - [Advancing Cosmological Parameter Estimation and Hubble Parameter Reconstruction with Long Short-Term Memory and Efficient-Kolmogorov-Arnold Networks](https://arxiv.org/abs/2504.00392)
+- [Adversarial KA](https://arxiv.org/abs/2504.05255)
+- [Solving the fully nonlinear Monge-Ampère equation using the Legendre-Kolmogorov-Arnold Network method](https://arxiv.org/abs/2504.05022)
+- [asKAN: Active Subspace embedded Kolmogorov-Arnold Network](https://arxiv.org/abs/2504.04669)
+- [Extending Cox Proportional Hazards Model with Symbolic Non-Linear Log-Risk Functions for Survival Analysis](https://arxiv.org/abs/2504.04353)
+- [DeepOHeat-v1: Efficient Operator Learning for Fast and Trustworthy Thermal Simulation and Optimization in 3D-IC Design](https://arxiv.org/abs/2504.03955)
+- [Improving Brain Disorder Diagnosis with Advanced Brain Function Representation and Kolmogorov-Arnold Networks](https://arxiv.org/abs/2504.03923)
+- [Opening the Black-Box: Symbolic Regression with Kolmogorov-Arnold Networks for Energy Applications](https://arxiv.org/abs/2504.03913)
 
 
 ## Library
