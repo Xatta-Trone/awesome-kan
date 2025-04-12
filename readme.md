@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-April 11, 2025 at 12:49:46 AM UTC
+April 12, 2025 at 12:48:07 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ April 11, 2025 at 12:49:46 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (265)
+## Papers (268)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -304,6 +304,9 @@ April 11, 2025 at 12:49:46 AM UTC
 - [Opening the Black-Box: Symbolic Regression with Kolmogorov-Arnold Networks for Energy Applications](https://arxiv.org/abs/2504.03913)
 - [KAN-SAM: Kolmogorov-Arnold Network Guided Segment Anything Model for RGB-T Salient Object Detection](https://arxiv.org/abs/2504.05878)
 - [HSR-KAN: Efficient Hyperspectral Image Super-Resolution via Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.06705)
+- [Representation Meets Optimization: Training PINNs and PIKANs for Gray-Box Discovery in Systems Pharmacology](https://arxiv.org/abs/2504.07379)
+- [TabKAN: Advancing Tabular Data Analysis using Kolmograv-Arnold Network](https://arxiv.org/abs/2504.06559)
+- [Physics-informed KAN PointNet: Deep learning for simultaneous solutions to inverse problems in incompressible flow on numerous irregular geometries](https://arxiv.org/abs/2504.06327)
 
 
 ## Library
