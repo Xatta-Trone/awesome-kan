@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-April 15, 2025 at 12:51:00 AM UTC
+April 16, 2025 at 12:51:05 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ April 15, 2025 at 12:51:00 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (268)
+## Papers (270)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -307,6 +307,8 @@ April 15, 2025 at 12:51:00 AM UTC
 - [Representation Meets Optimization: Training PINNs and PIKANs for Gray-Box Discovery in Systems Pharmacology](https://arxiv.org/abs/2504.07379)
 - [TabKAN: Advancing Tabular Data Analysis using Kolmograv-Arnold Network](https://arxiv.org/abs/2504.06559)
 - [Physics-informed KAN PointNet: Deep learning for simultaneous solutions to inverse problems in incompressible flow on numerous irregular geometries](https://arxiv.org/abs/2504.06327)
+- [Proteinoid spikes: from protocognitive to universal approximating agents](https://arxiv.org/abs/2504.10362)
+- [A Case for Kolmogorov-Arnold Networks in Prefetching: Towards Low-Latency, Generalizable ML-Based Prefetchers](https://arxiv.org/abs/2504.09074)
 
 
 ## Library
