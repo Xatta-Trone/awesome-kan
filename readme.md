@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-April 17, 2025 at 12:49:51 AM UTC
+April 18, 2025 at 12:49:00 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ April 17, 2025 at 12:49:51 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (272)
+## Papers (275)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -311,6 +311,9 @@ April 17, 2025 at 12:49:51 AM UTC
 - [A Case for Kolmogorov-Arnold Networks in Prefetching: Towards Low-Latency, Generalizable ML-Based Prefetchers](https://arxiv.org/abs/2504.09074)
 - [MLPs and KANs for data-driven learning in physical problems: A performance comparison](https://arxiv.org/abs/2504.11397)
 - [GPT Meets Graphs and KAN Splines: Testing Novel Frameworks on Multitask Fine-Tuned GPT-2 with LoRA](https://arxiv.org/abs/2504.10490)
+- [Approximation Bounds for Transformer Networks with Application to Regression](https://arxiv.org/abs/2504.12175)
+- [Towards Explainable Fusion and Balanced Learning in Multimodal Sentiment Analysis](https://arxiv.org/abs/2504.12151)
+- [Are prime numbers and quadratic residues random?](https://arxiv.org/abs/2403.04490)
 
 
 ## Library
