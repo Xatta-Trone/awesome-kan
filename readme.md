@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-April 22, 2025 at 12:50:25 AM UTC
+April 23, 2025 at 12:50:35 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ April 22, 2025 at 12:50:25 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (280)
+## Papers (284)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -319,6 +319,10 @@ April 22, 2025 at 12:50:25 AM UTC
 - [KAN or MLP? Point Cloud Shows the Way Forward](https://arxiv.org/abs/2504.13593)
 - [Transformers Can Overcome the Curse of Dimensionality: A Theoretical Study from an Approximation Perspective](https://arxiv.org/abs/2504.13558)
 - [Quantum precursors to Kolmogorov-Arnold-Moser theorem in Floquet spin-JJ systems](https://arxiv.org/abs/2504.13257)
+- [Conformalized-KANs: Uncertainty Quantification with Coverage Guarantees for Kolmogorov-Arnold Networks (KANs) in Scientific Machine Learning](https://arxiv.org/abs/2504.15240)
+- [Kolmogorov-Arnold Networks: Approximation and Learning Guarantees for Functions and their Derivatives](https://arxiv.org/abs/2504.15110)
+- [Efficient Implicit Neural Compression of Point Clouds via Learnable Activation in Latent Space](https://arxiv.org/abs/2504.14471)
+- [DualKanbaFormer: An Efficient Selective Sparse Framework for Multimodal Aspect-based Sentiment Analysis](https://arxiv.org/abs/2408.15379)
 
 
 ## Library
