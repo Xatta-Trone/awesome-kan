@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-April 23, 2025 at 12:50:35 AM UTC
+April 24, 2025 at 12:50:48 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ April 23, 2025 at 12:50:35 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (284)
+## Papers (285)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -323,6 +323,7 @@ April 23, 2025 at 12:50:35 AM UTC
 - [Kolmogorov-Arnold Networks: Approximation and Learning Guarantees for Functions and their Derivatives](https://arxiv.org/abs/2504.15110)
 - [Efficient Implicit Neural Compression of Point Clouds via Learnable Activation in Latent Space](https://arxiv.org/abs/2504.14471)
 - [DualKanbaFormer: An Efficient Selective Sparse Framework for Multimodal Aspect-based Sentiment Analysis](https://arxiv.org/abs/2408.15379)
+- [DAE-KAN: A Kolmogorov-Arnold Network Model for High-Index Differential-Algebraic Equations](https://arxiv.org/abs/2504.15806)
 
 
 ## Library
