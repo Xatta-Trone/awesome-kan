@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-May 7, 2025 at 12:51:58 AM UTC
+May 8, 2025 at 12:52:26 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ May 7, 2025 at 12:51:58 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (289)
+## Papers (291)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -328,6 +328,8 @@ May 7, 2025 at 12:51:58 AM UTC
 - [A Unified Benchmark of Federated Learning with Kolmogorov-Arnold Networks for Medical Imaging](https://arxiv.org/abs/2504.19639)
 - [FiberKAN: Kolmogorov-Arnold Networks for Nonlinear Fiber Optics](https://arxiv.org/abs/2504.18833)
 - [TabKAN: Advancing Tabular Data Analysis using Kolmogorov-Arnold Network](https://arxiv.org/abs/2504.06559)
+- [Anant-Net: Breaking the Curse of Dimensionality with Scalable and Interpretable Neural Surrogate for High-Dimensional PDEs](https://arxiv.org/abs/2505.03595)
+- [-functions, synchronization, and Arnold tongues for coupled stochastic oscillators](https://arxiv.org/abs/2505.02955)
 
 
 ## Library
