@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-May 12, 2025 at 12:54:35 AM UTC
+May 13, 2025 at 12:52:29 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ May 12, 2025 at 12:54:35 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (294)
+## Papers (296)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -333,6 +333,8 @@ May 12, 2025 at 12:54:35 AM UTC
 - [Novel Extraction of Discriminative Fine-Grained Feature to Improve Retinal Vessel Segmentation](https://arxiv.org/abs/2505.03896)
 - [Prediction via Shapley Value Regression](https://arxiv.org/abs/2505.04775)
 - [Hyb-KAN ViT: Hybrid Kolmogorov-Arnold Networks Augmented Vision Transformer](https://arxiv.org/abs/2505.04740)
+- [Improving Generalizability of Kolmogorov-Arnold Networks via Error-Correcting Output Codes](https://arxiv.org/abs/2505.05798)
+- [OccuEMBED: Occupancy Extraction Merged with Building Energy Disaggregation for Occupant-Responsive Operation at Scale](https://arxiv.org/abs/2505.05478)
 
 
 ## Library
