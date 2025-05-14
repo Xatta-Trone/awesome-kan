@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-May 13, 2025 at 12:52:29 AM UTC
+May 14, 2025 at 12:52:00 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ May 13, 2025 at 12:52:29 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (296)
+## Papers (299)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -335,6 +335,9 @@ May 13, 2025 at 12:52:29 AM UTC
 - [Hyb-KAN ViT: Hybrid Kolmogorov-Arnold Networks Augmented Vision Transformer](https://arxiv.org/abs/2505.04740)
 - [Improving Generalizability of Kolmogorov-Arnold Networks via Error-Correcting Output Codes](https://arxiv.org/abs/2505.05798)
 - [OccuEMBED: Occupancy Extraction Merged with Building Energy Disaggregation for Occupant-Responsive Operation at Scale](https://arxiv.org/abs/2505.05478)
+- [Enhancing Federated Learning with Kolmogorov-Arnold Networks: A Comparative Study Across Diverse Aggregation Strategies](https://arxiv.org/abs/2505.07629)
+- [Geometry of Almost-Conserved Quantities in Symplectic Maps. Part III: Approximate Invariants in Nonlinear Accelerator Systems](https://arxiv.org/abs/2505.07225)
+- [Mixer-Informer-Based Two-Stage Transfer Learning for Long-Sequence Load Forecasting in Newly Constructed Electric Vehicle Charging Stations](https://arxiv.org/abs/2505.06657)
 
 
 ## Library
