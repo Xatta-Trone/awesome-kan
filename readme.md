@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-May 21, 2025 at 12:52:56 AM UTC
+May 22, 2025 at 12:52:36 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ May 21, 2025 at 12:52:56 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (306)
+## Papers (309)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -345,6 +345,9 @@ May 21, 2025 at 12:52:56 AM UTC
 - [A Kolmogorov-Arnold Neural Model for Cascading Extremes](https://arxiv.org/abs/2505.13370)
 - [KHRONOS: a Kernel-Based Neural Architecture for Rapid, Resource-Efficient Scientific Computation](https://arxiv.org/abs/2505.13315)
 - [MedVKAN: Efficient Feature Extraction with Mamba and KAN for Medical Image Segmentation](https://arxiv.org/abs/2505.11797)
+- [Interpretable Reinforcement Learning for Load Balancing using Kolmogorov-Arnold Networks](https://arxiv.org/abs/2505.14459)
+- [X-KAN: Optimizing Local Kolmogorov-Arnold Networks via Evolutionary Rule-Based Machine Learning](https://arxiv.org/abs/2505.14273)
+- [FlashKAT: Understanding and Addressing Performance Bottlenecks in the Kolmogorov-Arnold Transformer](https://arxiv.org/abs/2505.13813)
 
 
 ## Library
