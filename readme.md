@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-May 22, 2025 at 12:52:36 AM UTC
+May 23, 2025 at 12:52:30 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ May 22, 2025 at 12:52:36 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (309)
+## Papers (312)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -348,6 +348,9 @@ May 22, 2025 at 12:52:36 AM UTC
 - [Interpretable Reinforcement Learning for Load Balancing using Kolmogorov-Arnold Networks](https://arxiv.org/abs/2505.14459)
 - [X-KAN: Optimizing Local Kolmogorov-Arnold Networks via Evolutionary Rule-Based Machine Learning](https://arxiv.org/abs/2505.14273)
 - [FlashKAT: Understanding and Addressing Performance Bottlenecks in the Kolmogorov-Arnold Transformer](https://arxiv.org/abs/2505.13813)
+- [From KAN to GR-KAN: Advancing Speech Enhancement with KAN-Based Methodology](https://arxiv.org/abs/2412.17778)
+- [Degree-Optimized Cumulative Polynomial Kolmogorov-Arnold Networks](https://arxiv.org/abs/2505.15228)
+- [Khan-GCL: Kolmogorov-Arnold Network Based Graph Contrastive Learning with Hard Negatives](https://arxiv.org/abs/2505.15103)
 
 
 ## Library
