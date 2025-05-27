@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-May 26, 2025 at 12:54:13 AM UTC
+May 27, 2025 at 12:51:40 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ May 26, 2025 at 12:54:13 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (312)
+## Papers (313)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -351,6 +351,7 @@ May 26, 2025 at 12:54:13 AM UTC
 - [From KAN to GR-KAN: Advancing Speech Enhancement with KAN-Based Methodology](https://arxiv.org/abs/2412.17778)
 - [Degree-Optimized Cumulative Polynomial Kolmogorov-Arnold Networks](https://arxiv.org/abs/2505.15228)
 - [Khan-GCL: Kolmogorov-Arnold Network Based Graph Contrastive Learning with Hard Negatives](https://arxiv.org/abs/2505.15103)
+- [Leveraging KANs for Expedient Training of Multichannel MLPs via Preconditioning and Geometric Refinement](https://arxiv.org/abs/2505.18131)
 
 
 ## Library
