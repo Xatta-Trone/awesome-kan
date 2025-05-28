@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-May 27, 2025 at 12:51:40 AM UTC
+May 28, 2025 at 12:52:51 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ May 27, 2025 at 12:51:40 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (313)
+## Papers (318)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -352,6 +352,11 @@ May 27, 2025 at 12:51:40 AM UTC
 - [Degree-Optimized Cumulative Polynomial Kolmogorov-Arnold Networks](https://arxiv.org/abs/2505.15228)
 - [Khan-GCL: Kolmogorov-Arnold Network Based Graph Contrastive Learning with Hard Negatives](https://arxiv.org/abs/2505.15103)
 - [Leveraging KANs for Expedient Training of Multichannel MLPs via Preconditioning and Geometric Refinement](https://arxiv.org/abs/2505.18131)
+- ["KAN you hear me?" Exploring Kolmogorov-Arnold Networks for Spoken Language Understanding](https://arxiv.org/abs/2505.20176)
+- [KAN we improve on HEP classification tasks? Kolmogorov-Arnold Networks applied to an LHC physics example](https://arxiv.org/abs/2408.02743)
+- [Kolmogorov-Arnold Networks for Turbulence Anisotropy Mapping](https://arxiv.org/abs/2505.19366)
+- [TK-Mamba: Marrying KAN with Mamba for Text-Driven 3D Medical Image Segmentation](https://arxiv.org/abs/2505.18525)
+- [COLORA: Efficient Fine-Tuning for Convolutional Models with a Study Case on Optical Coherence Tomography Image Classification](https://arxiv.org/abs/2505.18315)
 
 
 ## Library
