@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-May 29, 2025 at 12:52:54 AM UTC
+May 30, 2025 at 12:52:29 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ May 29, 2025 at 12:52:54 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (320)
+## Papers (321)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
@@ -359,6 +359,7 @@ May 29, 2025 at 12:52:54 AM UTC
 - [COLORA: Efficient Fine-Tuning for Convolutional Models with a Study Case on Optical Coherence Tomography Image Classification](https://arxiv.org/abs/2505.18315)
 - [Input Convex Kolmogorov Arnold Networks](https://arxiv.org/abs/2505.21208)
 - [FMEnets: Flow, Material, and Energy networks for non-ideal plug flow reactor design](https://arxiv.org/abs/2505.20300)
+- [Taylor expansion-based Kolmogorov-Arnold network for blind image quality assessment](https://arxiv.org/abs/2505.21592)
 
 
 ## Library
