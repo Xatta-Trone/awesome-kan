@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-June 3, 2025 at 12:54:09 AM UTC
+June 4, 2025 at 12:54:02 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ June 3, 2025 at 12:54:09 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (327)
+## Papers (328)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -366,6 +366,7 @@ June 3, 2025 at 12:54:09 AM UTC
 - [How can AI reduce fall injuries in the workplace?](https://arxiv.org/abs/2505.24507)
 - [SPPSFormer: High-quality Superpoint-based Transformer for Roof Plane Instance Segmentation from Point Clouds](https://arxiv.org/abs/2505.24475)
 - [Beyond KAN: Introducing KarSein for Adaptive High-Order Feature Interaction Modeling in CTR Prediction](https://arxiv.org/abs/2408.08713)
+- [Probing Quantum Spin Systems with Kolmogorov-Arnold Neural Network Quantum States](https://arxiv.org/abs/2506.01891)
 
 
 ## Library
