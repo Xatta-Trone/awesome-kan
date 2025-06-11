@@ -1,13 +1,16 @@
-# Awesome KAN(Kolmogorov-Arnold Network)
+# Awesome KAN (Kolmogorov-Arnold Network)
 
 
  [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/Xatta-Trone/awesome-kan.svg?label=contributions)](https://github.com/Xatta-Trone/awesome-kan/pulls)  ![GitHub stars](https://img.shields.io/github/stars/Xatta-Trone/awesome-kan.svg?style=social)
 
-
-
 A carefully curated collection of exceptional libraries, projects, tutorials, research papers, and other resources focused on **Kolmogorov-Arnold Networks (KAN)**. This repository serves as a well-structured and thorough resource hub, designed to support and guide researchers and developers exploring the field of KAN.
 
-Our repository is **automatically updated** with the latest **KAN-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything KAN-related.
+Our repository is **automatically updated** with the latest **KAN-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field.
+
+We are pleased to announce that our comprehensive review paper, *"A Survey on Kolmogorov-Arnold Network"*, has been accepted to **ACM Computing Surveys (ACM CS)**. This paper explores the theoretical foundations, architectural advances such as FastKAN, T-KAN, and PDE-KAN, optimization strategies, and practical applications across multiple domains. It can be accessed at [https://doi.org/10.1145/3743128](https://doi.org/10.1145/3743128).
+
+Whether you are a researcher, developer, or enthusiast, this collection provides a centralized hub for everything related to KAN, now featuring original peer-reviewed contributions to the field.
+
 
 
 ## Last Updated
