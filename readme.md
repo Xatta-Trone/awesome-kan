@@ -11,7 +11,7 @@ Our repository is **automatically updated** with the latest **KAN-related resear
 
 
 ## Last Updated
-June 10, 2025 at 12:53:47 AM UTC
+June 11, 2025 at 12:53:56 AM UTC
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ June 10, 2025 at 12:53:47 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (331)
+## Papers (335)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -370,6 +370,10 @@ June 10, 2025 at 12:53:47 AM UTC
 - [Kolmogorov-Arnold Wavefunctions](https://arxiv.org/abs/2506.02171)
 - [KAN-HyperpointNet for Point Cloud Sequence-Based 3D Human Action Recognition](https://arxiv.org/abs/2409.09444)
 - [Multi-Exit Kolmogorov-Arnold Networks: enhancing accuracy and parsimony](https://arxiv.org/abs/2506.03302)
+- [Neural Tangent Kernel Analysis to Probe Convergence in Physics-informed Neural Solvers: PIKANs vs. PINNs](https://arxiv.org/abs/2506.07958)
+- [Improving Memory Efficiency for Training KANs via Meta Learning](https://arxiv.org/abs/2506.07549)
+- [Dynamical thermalization, Rayleigh-Jeans condensate, vortexes and wave collapse in quantum chaos fibers and fluid of light](https://arxiv.org/abs/2506.06534)
+- [Dynamic Graph CNN with Jacobi Kolmogorov-Arnold Networks for 3D Classification of Point Sets](https://arxiv.org/abs/2506.06296)
 
 
 ## Library
