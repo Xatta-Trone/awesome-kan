@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-June 23, 2025 at 12:57:39 AM UTC
+June 24, 2025 at 12:54:33 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ June 23, 2025 at 12:57:39 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (344)
+## Papers (345)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -386,6 +386,7 @@ June 23, 2025 at 12:57:39 AM UTC
 - [Pushing the Performance of Synthetic Speech Detection with Kolmogorov-Arnold Networks and Self-Supervised Learning Models](https://arxiv.org/abs/2506.14153)
 - [Rethinking Distributional IVs: KAN-Powered D-IV-LATE & Model Choice](https://arxiv.org/abs/2506.12765)
 - [ss-Mamba: Semantic-Spline Selective State-Space Model](https://arxiv.org/abs/2506.14802)
+- [State-Space Kolmogorov Arnold Networks for Interpretable Nonlinear System Identification](https://arxiv.org/abs/2506.16392)
 
 
 ## Library
