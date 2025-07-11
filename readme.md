@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-July 10, 2025 at 12:55:21 AM UTC
+July 11, 2025 at 12:55:49 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ July 10, 2025 at 12:55:21 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (355)
+## Papers (357)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -397,6 +397,8 @@ July 10, 2025 at 12:55:21 AM UTC
 - [Exploring Kolmogorov-Arnold Network Expansions in Vision Transformers for Mitigating Catastrophic Forgetting in Continual Learning](https://arxiv.org/abs/2507.04020)
 - [Structured Generative Modeling with the Thermodynamic Kolmogorov-Arnold Model](https://arxiv.org/abs/2506.14167)
 - [Towards Interpretable PolSAR Image Classification: Polarimetric Scattering Mechanism Informed Concept Bottleneck and Kolmogorov-Arnold Network](https://arxiv.org/abs/2507.03315)
+- [KAConvText: Novel Approach to Burmese Sentence Classification using Kolmogorov-Arnold Convolution](https://arxiv.org/abs/2507.06753)
+- [Capsule-ConvKAN: A Hybrid Neural Approach to Medical Image Classification](https://arxiv.org/abs/2507.06417)
 
 
 ## Library
