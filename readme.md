@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-July 18, 2025 at 12:56:35 AM UTC
+July 19, 2025 at 12:55:27 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ July 18, 2025 at 12:56:35 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (362)
+## Papers (363)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -404,6 +404,7 @@ July 18, 2025 at 12:56:35 AM UTC
 - [Discontinuity-aware KAN-based physics-informed neural networks](https://arxiv.org/abs/2507.08338)
 - [Application of interpretable data-driven methods for the reconstruction of supernova neutrino energy spectra following fast neutrino flavor conversions](https://arxiv.org/abs/2507.09632)
 - [Contrastive-KAN: A Semi-Supervised Intrusion Detection Framework for Cybersecurity with scarce Labeled Data](https://arxiv.org/abs/2507.10808)
+- [FORTRESS: Function-composition Optimized Real-Time Resilient Structural Segmentation via Kolmogorov-Arnold Enhanced Spatial Attention Networks](https://arxiv.org/abs/2507.12675)
 
 
 ## Library
