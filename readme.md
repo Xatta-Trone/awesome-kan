@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-July 30, 2025 at 12:58:17 AM UTC
+July 31, 2025 at 12:58:05 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ July 30, 2025 at 12:58:17 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (371)
+## Papers (372)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -413,6 +413,7 @@ July 30, 2025 at 12:58:17 AM UTC
 - [Multi-Resolution Training-Enhanced Kolmogorov-Arnold Networks for Multi-Scale PDE Problems](https://arxiv.org/abs/2507.19888)
 - [Universal Relation Between Quantum Entanglement and Particle Transport](https://arxiv.org/abs/2507.19731)
 - [Kolmogorov Arnold Network Autoencoder in Medicine](https://arxiv.org/abs/2507.19524)
+- [MedViT V2: Medical Image Classification with KAN-Integrated Transformers and Dilated Neighborhood Attention](https://arxiv.org/abs/2502.13693)
 
 
 ## Library
