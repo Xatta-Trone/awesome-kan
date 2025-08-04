@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-August 3, 2025 at 01:03:54 AM UTC
+August 4, 2025 at 01:03:05 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ August 3, 2025 at 01:03:54 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (375)
+## Papers (378)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -417,6 +417,9 @@ August 3, 2025 at 01:03:54 AM UTC
 - [Beyond Linear Bottlenecks: Spline-Based Knowledge Distillation for Culturally Diverse Art Style Classification](https://arxiv.org/abs/2507.23436)
 - [A holomorphic Kolmogorov-Arnold network framework for solving elliptic problems on arbitrary 2D domains](https://arxiv.org/abs/2507.22678)
 - [Scientific Machine Learning with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2507.22959)
+- [KFS: KAN based adaptive Frequency Selection learning architecture for long term time series forecasting](https://arxiv.org/abs/2508.00635)
+- [Sinusoidal Approximation Theorem for Kolmogorov-Arnold Networks](https://arxiv.org/abs/2508.00247)
+- [Is Quantum Mechanics a proper subset of Classical Mechanics?](https://arxiv.org/abs/2508.00044)
 
 
 ## Library
