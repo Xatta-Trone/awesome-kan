@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-August 7, 2025 at 12:59:07 AM UTC
+August 8, 2025 at 12:58:48 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ August 7, 2025 at 12:59:07 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (382)
+## Papers (384)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -424,6 +424,8 @@ August 7, 2025 at 12:59:07 AM UTC
 - [Baseline-free Damage Detection and Localization on Composite Structures with Unsupervised Kolmogorov-Arnold Autoencoder and Guided Waves](https://arxiv.org/abs/2508.01081)
 - [Unifying Locality of KANs and Feature Drift Compensation for Data-free Continual Face Forgery Detection](https://arxiv.org/abs/2508.03189)
 - [Comparative Evaluation of Kolmogorov-Arnold Autoencoders and Orthogonal Autoencoders for Fault Detection with Varying Training Set Sizes](https://arxiv.org/abs/2508.02860)
+- [Approximation Rates in Besov Norms and Sample-Complexity of Kolmogorov-Arnold Networks with Residual Connections](https://arxiv.org/abs/2504.15110)
+- [Explicit Construction of Approximate Kolmogorov-Arnold Superpositions with C2-Smoothness](https://arxiv.org/abs/2508.04392)
 
 
 ## Library
