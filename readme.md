@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-August 8, 2025 at 12:58:48 AM UTC
+August 9, 2025 at 12:53:43 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ August 8, 2025 at 12:58:48 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (384)
+## Papers (387)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -426,6 +426,9 @@ August 8, 2025 at 12:58:48 AM UTC
 - [Comparative Evaluation of Kolmogorov-Arnold Autoencoders and Orthogonal Autoencoders for Fault Detection with Varying Training Set Sizes](https://arxiv.org/abs/2508.02860)
 - [Approximation Rates in Besov Norms and Sample-Complexity of Kolmogorov-Arnold Networks with Residual Connections](https://arxiv.org/abs/2504.15110)
 - [Explicit Construction of Approximate Kolmogorov-Arnold Superpositions with C2-Smoothness](https://arxiv.org/abs/2508.04392)
+- [Optimizing IoT Threat Detection with Kolmogorov-Arnold Networks (KANs)](https://arxiv.org/abs/2508.05591)
+- [AHDMIL: Asymmetric Hierarchical Distillation Multi-Instance Learning for Fast and Accurate Whole-Slide Image Classification](https://arxiv.org/abs/2508.05114)
+- [LuKAN: A Kolmogorov-Arnold Network Framework for 3D Human Motion Prediction](https://arxiv.org/abs/2508.04847)
 
 
 ## Library
