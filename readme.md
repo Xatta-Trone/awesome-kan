@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-August 13, 2025 at 12:54:59 AM UTC
+August 14, 2025 at 12:55:09 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ August 13, 2025 at 12:54:59 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (392)
+## Papers (393)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -434,6 +434,7 @@ August 13, 2025 at 12:54:59 AM UTC
 - [KARMA: Efficient Structural Defect Segmentation via Kolmogorov-Arnold Representation Learning](https://arxiv.org/abs/2508.08186)
 - [Watermarking Kolmogorov-Arnold Networks for Emerging Networked Applications via Activation Perturbation](https://arxiv.org/abs/2508.06676)
 - [Transferring Social Network Knowledge from Multiple GNN Teachers to Kolmogorov-Arnold Networks](https://arxiv.org/abs/2508.06663)
+- [Stationarity Exploration for Multivariate Time Series Forecasting](https://arxiv.org/abs/2508.08919)
 
 
 ## Library
