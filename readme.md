@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-August 22, 2025 at 12:51:28 AM UTC
+August 23, 2025 at 12:48:37 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ August 22, 2025 at 12:51:28 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (400)
+## Papers (401)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -442,6 +442,7 @@ August 22, 2025 at 12:51:28 AM UTC
 - [Skin Cancer Classification: Hybrid CNN-Transformer Models with KAN-Based Fusion](https://arxiv.org/abs/2508.12484)
 - [Combinations of Fast Activation and Trigonometric Functions in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2508.11876)
 - [The Wrath of KAN: Enabling Fast, Accurate, and Transparent Emulation of the Global 21 cm Cosmology Signal](https://arxiv.org/abs/2508.11752)
+- [Conditionally adaptive augmented Lagrangian method for physics-informed learning of forward and inverse problems using artificial neural networks](https://arxiv.org/abs/2508.15695)
 
 
 ## Library
