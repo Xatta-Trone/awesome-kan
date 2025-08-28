@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-August 27, 2025 at 12:50:22 AM UTC
+August 28, 2025 at 12:49:31 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ August 27, 2025 at 12:50:22 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (407)
+## Papers (409)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -449,6 +449,8 @@ August 27, 2025 at 12:50:22 AM UTC
 - [Optimizing the Optimizer for Physics-Informed Neural Networks and Kolmogorov-Arnold Networks](https://arxiv.org/abs/2501.16371)
 - [Optimizing Neural Networks with Learnable Non-Linear Activation Functions via Lookup-Based FPGA Acceleration](https://arxiv.org/abs/2508.17069)
 - [Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging](https://arxiv.org/abs/2508.16999)
+- [QuadKAN: KAN-Enhanced Quadruped Motion Control via End-to-End Reinforcement Learning](https://arxiv.org/abs/2508.19153)
+- [Lightweight posterior construction for gravitational-wave catalogs with the Kolmogorov-Arnold network](https://arxiv.org/abs/2508.18698)
 
 
 ## Library
