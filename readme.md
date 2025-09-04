@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-September 3, 2025 at 12:46:16 AM UTC
+September 4, 2025 at 12:46:34 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ September 3, 2025 at 12:46:16 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (412)
+## Papers (415)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -454,6 +454,9 @@ September 3, 2025 at 12:46:16 AM UTC
 - [Fractal Flow: Hierarchical and Interpretable Normalizing Flow via Topic Modeling and Recursive Strategy](https://arxiv.org/abs/2508.19750)
 - [Symbolic Equation Modeling of Composite Loads: A Kolmogorov-Arnold Network based Learning Approach](https://arxiv.org/abs/2508.19612)
 - [Kolmogorov-Arnold Representation for Symplectic Learning: Advancing Hamiltonian Neural Networks](https://arxiv.org/abs/2508.19410)
+- [Emulating Global 21 cm Cosmology Observations from the Lunar Far Side to Achieve Quick and Reliable Physical Constraints](https://arxiv.org/abs/2509.00976)
+- [An Efficient GNNs-to-KANs Distillation via Self-Attention Dynamic Sampling with Potential for Consumer Electronics Edge Deployment](https://arxiv.org/abs/2509.00560)
+- [Applying Deep Learning to Anomaly Detection of Russian Satellite Activity for Indications Prior to Military Activity](https://arxiv.org/abs/2509.00050)
 
 
 ## Library
