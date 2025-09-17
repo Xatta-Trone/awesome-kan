@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-September 16, 2025 at 12:46:36 AM UTC
+September 17, 2025 at 12:47:23 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ September 16, 2025 at 12:46:36 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (426)
+## Papers (430)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -468,6 +468,10 @@ September 16, 2025 at 12:46:36 AM UTC
 - [A Conflicts-free, Speed-lossless KAN-based Reinforcement Learning Decision System for Interactive Driving in Roundabouts](https://arxiv.org/abs/2408.08242)
 - [Time Quasi-Periodic Three-dimensional Traveling Gravity Water Waves](https://arxiv.org/abs/2509.10318)
 - [KAN-SR: A Kolmogorov-Arnold Network Guided Symbolic Regression Framework](https://arxiv.org/abs/2509.10089)
+- [Multimodal Regression for Enzyme Turnover Rates Prediction](https://arxiv.org/abs/2509.11782)
+- [Task-Agnostic Learnable Weighted-Knowledge Base Scheme for Robust Semantic Communications](https://arxiv.org/abs/2509.11636)
+- [Kolmogorov-Arnold Networks: A Critical Assessment of Claims, Performance, and Practical Viability](https://arxiv.org/abs/2407.11075)
+- [SOH-KLSTM: A Hybrid Kolmogorov-Arnold Network and LSTM Model for Enhanced Lithium-Ion Battery Health Monitoring](https://arxiv.org/abs/2509.10496)
 
 
 ## Library
