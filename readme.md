@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-September 30, 2025 at 12:49:24 AM UTC
+October 1, 2025 at 12:55:39 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ September 30, 2025 at 12:49:24 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (447)
+## Papers (453)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -489,6 +489,12 @@ September 30, 2025 at 12:49:24 AM UTC
 - [CausalKANs: interpretable treatment effect estimation with Kolmogorov-Arnold networks](https://arxiv.org/abs/2509.22467)
 - [U-MAN: U-Net with Multi-scale Adaptive KAN Network for Medical Image Segmentation](https://arxiv.org/abs/2509.22444)
 - [Accurate Surrogate Amplitudes with Calibrated Uncertainties](https://arxiv.org/abs/2412.12069)
+- [Foggy Crowd Counting: Combining Physical Priors and KAN-Graph](https://arxiv.org/abs/2509.24545)
+- [FS-KAN: Permutation Equivariant Kolmogorov-Arnold Networks via Function Sharing](https://arxiv.org/abs/2509.24472)
+- [Splines-Based Feature Importance in Kolmogorov-Arnold Networks: A Framework for Supervised Tabular Data Dimensionality Reduction](https://arxiv.org/abs/2509.23366)
+- [FMC-DETR: Frequency-Decoupled Multi-Domain Coordination for Aerial-View Object Detection](https://arxiv.org/abs/2509.23056)
+- [Learning KAN-based Implicit Neural Representations for Deformable Image Registration](https://arxiv.org/abs/2509.22874)
+- [Proposal of method to solve a Traveling Salesman Problem using Variational Quantum Kolmogorov-Arnold Network](https://arxiv.org/abs/2509.22752)
 
 
 ## Library
