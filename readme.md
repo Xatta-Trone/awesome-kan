@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-October 1, 2025 at 12:55:39 AM UTC
+October 2, 2025 at 12:47:23 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ October 1, 2025 at 12:55:39 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (453)
+## Papers (455)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -495,6 +495,8 @@ October 1, 2025 at 12:55:39 AM UTC
 - [FMC-DETR: Frequency-Decoupled Multi-Domain Coordination for Aerial-View Object Detection](https://arxiv.org/abs/2509.23056)
 - [Learning KAN-based Implicit Neural Representations for Deformable Image Registration](https://arxiv.org/abs/2509.22874)
 - [Proposal of method to solve a Traveling Salesman Problem using Variational Quantum Kolmogorov-Arnold Network](https://arxiv.org/abs/2509.22752)
+- [Heterogeneous Multi-agent Collaboration in UAV-assisted Mobile Crowdsensing Networks](https://arxiv.org/abs/2509.25261)
+- [LEMs: A Primer On Large Execution Models](https://arxiv.org/abs/2509.25211)
 
 
 ## Library
