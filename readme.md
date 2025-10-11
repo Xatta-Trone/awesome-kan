@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-October 10, 2025 at 12:47:54 AM UTC
+October 11, 2025 at 12:45:17 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ October 10, 2025 at 12:47:54 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (465)
+## Papers (466)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -507,6 +507,7 @@ October 10, 2025 at 12:47:54 AM UTC
 - [XLSR-Kanformer: A KAN-Intergrated model for Synthetic Speech Detection](https://arxiv.org/abs/2510.06706)
 - [PolyKAN: A Polyhedral Analysis Framework for Provable and Approximately Optimal KAN Compression](https://arxiv.org/abs/2510.04205)
 - [PIKAN: Physics-Inspired Kolmogorov-Arnold Networks for Explainable UAV Channel Modelling](https://arxiv.org/abs/2510.06355)
+- [DGTEN: A Robust Deep Gaussian based Graph Neural Network for Dynamic Trust Evaluation with Uncertainty-Quantification Support](https://arxiv.org/abs/2510.07620)
 
 
 ## Library
