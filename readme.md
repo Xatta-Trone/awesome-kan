@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-October 23, 2025 at 12:50:47 AM UTC
+October 24, 2025 at 12:46:26 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ October 23, 2025 at 12:50:47 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (474)
+## Papers (475)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -516,6 +516,7 @@ October 23, 2025 at 12:50:47 AM UTC
 - [A Primer on Kolmogorov-Arnold Networks (KANs) for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2510.16940)
 - [UKANFormer: Noise-Robust Semantic Segmentation for Coral Reef Mapping via a Kolmogorov-Arnold Network-Transformer Hybrid](https://arxiv.org/abs/2510.16730)
 - [From Hyperbolic to Non-Hyperbolic Open Billiards: An Entropy and Scaling Law Approach](https://arxiv.org/abs/2510.18580)
+- [MetaCluster: Enabling Deep Compression of Kolmogorov-Arnold Network](https://arxiv.org/abs/2510.19105)
 
 
 ## Library
