@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-October 28, 2025 at 12:49:34 AM UTC
+October 29, 2025 at 12:53:58 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ October 28, 2025 at 12:49:34 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (475)
+## Papers (479)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -517,6 +517,10 @@ October 28, 2025 at 12:49:34 AM UTC
 - [UKANFormer: Noise-Robust Semantic Segmentation for Coral Reef Mapping via a Kolmogorov-Arnold Network-Transformer Hybrid](https://arxiv.org/abs/2510.16730)
 - [From Hyperbolic to Non-Hyperbolic Open Billiards: An Entropy and Scaling Law Approach](https://arxiv.org/abs/2510.18580)
 - [MetaCluster: Enabling Deep Compression of Kolmogorov-Arnold Network](https://arxiv.org/abs/2510.19105)
+- [Towards Deep Physics-Informed Kolmogorov-Arnold Networks](https://arxiv.org/abs/2510.23501)
+- [Seeing Structural Failure Before it Happens: An Image-Based Physics-Informed Neural Network (PINN) for Spaghetti Bridge Load Prediction](https://arxiv.org/abs/2510.23117)
+- [Awakening Facial Emotional Expressions in Human-Robot](https://arxiv.org/abs/2510.23059)
+- [K-DAREK: Distance Aware Error for Kurkova Kolmogorov Networks](https://arxiv.org/abs/2510.22021)
 
 
 ## Library
