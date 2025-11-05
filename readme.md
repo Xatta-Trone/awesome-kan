@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-November 4, 2025 at 12:52:04 AM UTC
+November 5, 2025 at 12:53:56 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ November 4, 2025 at 12:52:04 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (485)
+## Papers (489)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -527,6 +527,10 @@ November 4, 2025 at 12:52:04 AM UTC
 - [KAN-GCN: Combining Kolmogorov-Arnold Network with Graph Convolution Network for an Accurate Ice Sheet Emulator](https://arxiv.org/abs/2510.24926)
 - [Stiff Circuit System Modeling via Transformer](https://arxiv.org/abs/2510.24727)
 - [A Practitioner's Guide to Kolmogorov-Arnold Networks](https://arxiv.org/abs/2510.25781)
+- [Interpretable Machine Learning for Reservoir Water Temperatures in the U.S. Red River Basin of the South](https://arxiv.org/abs/2511.01837)
+- [CG-FKAN: Compressed-Grid Federated Kolmogorov-Arnold Networks for Communication Constrained Environment](https://arxiv.org/abs/2511.01433)
+- [One model to solve them all: 2BSDE families via neural operators](https://arxiv.org/abs/2511.01125)
+- [As Good as It KAN Get: High-Fidelity Audio Representation](https://arxiv.org/abs/2503.02585)
 
 
 ## Library
