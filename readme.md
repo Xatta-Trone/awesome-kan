@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-November 7, 2025 at 12:52:38 AM UTC
+November 8, 2025 at 12:48:43 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ November 7, 2025 at 12:52:38 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (491)
+## Papers (493)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -533,6 +533,8 @@ November 7, 2025 at 12:52:38 AM UTC
 - [As Good as It KAN Get: High-Fidelity Audio Representation](https://arxiv.org/abs/2503.02585)
 - [A Hybrid CNN-Cheby-KAN Framework for Efficient Prediction of Two-Dimensional Airfoil Pressure Distribution](https://arxiv.org/abs/2511.03223)
 - [Hybrid DeepONet Surrogates for Multiphase Flow in Porous Media](https://arxiv.org/abs/2511.02962)
+- [When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation](https://arxiv.org/abs/2511.04084)
+- [KAN-Enhanced Contrastive Learning Accelerating Crystal Structure Identification from XRD Patterns](https://arxiv.org/abs/2511.04055)
 
 
 ## Library
