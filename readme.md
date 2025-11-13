@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-November 12, 2025 at 12:53:14 AM UTC
+November 13, 2025 at 12:53:12 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ November 12, 2025 at 12:53:14 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (497)
+## Papers (501)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -539,6 +539,10 @@ November 12, 2025 at 12:53:14 AM UTC
 - [Design Principles of Zero-Shot Self-Supervised Unknown Emitter Detectors](https://arxiv.org/abs/2511.07026)
 - [SFFR: Spatial-Frequency Feature Reconstruction for Multispectral Aerial Object Detection](https://arxiv.org/abs/2511.06298)
 - [An uncertainty-aware physics-informed neural network solution for the Black-Scholes equation: a novel framework for option pricing](https://arxiv.org/abs/2511.05519)
+- [Automatic Grid Updates for Kolmogorov-Arnold Networks using Layer Histograms](https://arxiv.org/abs/2511.08570)
+- [Symmetries and Weighted Integrability of Vector Fields with Jacobi Multipliers](https://arxiv.org/abs/2511.08284)
+- [Measuring FPUT thermalization with Toda integrals](https://arxiv.org/abs/2511.08149)
+- [Kolmogorov-Arnold Chemical Reaction Neural Networks for learning pressure-dependent kinetic rate laws](https://arxiv.org/abs/2511.07686)
 
 
 ## Library
