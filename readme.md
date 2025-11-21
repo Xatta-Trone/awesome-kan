@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-November 20, 2025 at 12:51:38 AM UTC
+November 21, 2025 at 12:52:07 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ November 20, 2025 at 12:51:38 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (514)
+## Papers (518)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -556,6 +556,10 @@ November 20, 2025 at 12:51:38 AM UTC
 - [KAN/H: Kolmogorov-Arnold Network using Haar-like bases](https://arxiv.org/abs/2511.11736)
 - [GROVER: Graph-guided Representation of Omics and Vision with Expert Regulation for Adaptive Spatial Multi-omics Fusion](https://arxiv.org/abs/2511.11730)
 - [KANGURA: Kolmogorov-Arnold Network-Based Geometry-Aware Learning with Unified Representation Attention for 3D Modeling of Complex Structures](https://arxiv.org/abs/2511.13798)
+- [Addressing the gravitational collapse of a massless scalar field with Physics-Informed Neural Networks](https://arxiv.org/abs/2511.15247)
+- [Fourier-KAN-Mamba: A Novel State-Space Equation Approach for Time-Series Anomaly Detection](https://arxiv.org/abs/2511.15083)
+- [An Interpretable Federated Learning Control Framework Design for Smart Grid Resilience](https://arxiv.org/abs/2511.15014)
+- [PolyKAN: Efficient Fused GPU Operators for Polynomial Kolmogorov-Arnold Network Variants](https://arxiv.org/abs/2511.14852)
 
 
 ## Library
