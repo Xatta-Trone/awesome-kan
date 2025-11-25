@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-November 24, 2025 at 12:56:54 AM UTC
+November 25, 2025 at 12:52:12 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ November 24, 2025 at 12:56:54 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (518)
+## Papers (520)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -560,6 +560,8 @@ November 24, 2025 at 12:56:54 AM UTC
 - [Fourier-KAN-Mamba: A Novel State-Space Equation Approach for Time-Series Anomaly Detection](https://arxiv.org/abs/2511.15083)
 - [An Interpretable Federated Learning Control Framework Design for Smart Grid Resilience](https://arxiv.org/abs/2511.15014)
 - [PolyKAN: Efficient Fused GPU Operators for Polynomial Kolmogorov-Arnold Network Variants](https://arxiv.org/abs/2511.14852)
+- [MonoKAN: Certified Monotonic Kolmogorov-Arnold Network](https://arxiv.org/abs/2409.11078)
+- [RadioKMoE: Knowledge-Guided Radiomap Estimation with Kolmogorov-Arnold Networks and Mixture-of-Experts](https://arxiv.org/abs/2511.16986)
 
 
 ## Library
