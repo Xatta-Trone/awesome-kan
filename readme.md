@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-December 10, 2025 at 12:55:58 AM UTC
+December 11, 2025 at 12:56:31 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ December 10, 2025 at 12:55:58 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (545)
+## Papers (546)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -587,6 +587,7 @@ December 10, 2025 at 12:55:58 AM UTC
 - [KAN-Dreamer: Benchmarking Kolmogorov-Arnold Networks as Function Approximators in World Models](https://arxiv.org/abs/2512.07437)
 - [Conditionally adaptive augmented Lagrangian method for physics-informed learning of forward and inverse problems](https://arxiv.org/abs/2508.15695)
 - [Entanglement Witness Derived By Using Kolmogorov-Arnold Networks](https://arxiv.org/abs/2512.06298)
+- [Softly Symbolifying Kolmogorov-Arnold Networks](https://arxiv.org/abs/2512.07875)
 
 
 ## Library
