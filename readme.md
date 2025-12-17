@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-December 16, 2025 at 12:56:33 AM UTC
+December 17, 2025 at 12:51:47 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ December 16, 2025 at 12:56:33 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (550)
+## Papers (554)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -592,6 +592,10 @@ December 16, 2025 at 12:56:33 AM UTC
 - [Dressing the Imagination: A Dataset for AI-Powered Translation of Text into Fashion Outfits and A Novel NeRA Adapter for Enhanced Feature Adaptation](https://arxiv.org/abs/2411.13901)
 - [Solving the Cosmological Vlasov-Poisson Equations with Physics-Informed Kolmogorov-Arnold Networks](https://arxiv.org/abs/2512.11795)
 - [Generative Adversarial Variational Quantum Kolmogorov-Arnold Network](https://arxiv.org/abs/2512.11014)
+- [KANELÉ: Kolmogorov-Arnold Networks for Efficient LUT-based Evaluation](https://arxiv.org/abs/2512.12850)
+- [Optimized Architectures for Kolmogorov-Arnold Networks](https://arxiv.org/abs/2512.12448)
+- [Physics-informed neural networks to solve inverse problems in unbounded domains](https://arxiv.org/abs/2512.12074)
+- [HWF-PIKAN: A Multi-Resolution Hybrid Wavelet-Fourier Physics-Informed Kolmogorov-Arnold Network for solving Collisionless Boltzmann Equation](https://arxiv.org/abs/2512.12001)
 
 
 ## Library
