@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-December 22, 2025 at 12:58:49 AM UTC
+December 23, 2025 at 12:55:46 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ December 22, 2025 at 12:58:49 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (557)
+## Papers (559)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -599,6 +599,8 @@ December 22, 2025 at 12:58:49 AM UTC
 - [Learning continuous SOC-dependent thermal decomposition kinetics for Li-ion cathodes using KA-CRNNs](https://arxiv.org/abs/2512.15628)
 - [KAN-Matrix: Visualizing Nonlinear Pairwise and Multivariate Contributions for Physical Insight](https://arxiv.org/abs/2512.15755)
 - [SHARe-KAN: Holographic Vector Quantization for Memory-Bound Inference](https://arxiv.org/abs/2512.15742)
+- [MINPO: Memory-Informed Neural Pseudo-Operator to Resolve Nonlocal Spatiotemporal Dynamics](https://arxiv.org/abs/2512.17273)
+- [Training Deep Physics-Informed Kolmogorov-Arnold Networks](https://arxiv.org/abs/2510.23501)
 
 
 ## Library
