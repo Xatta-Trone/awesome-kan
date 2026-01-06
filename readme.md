@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-January 5, 2026 at 01:02:22 AM UTC
+January 6, 2026 at 12:57:33 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ January 5, 2026 at 01:02:22 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (572)
+## Papers (573)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -614,6 +614,7 @@ January 5, 2026 at 01:02:22 AM UTC
 - [Uncertainty-Aware Flow Field Reconstruction Using SVGP Kolmogorov-Arnold Networks](https://arxiv.org/abs/2512.22426)
 - [Integrating Wide and Deep Neural Networks with Squeeze-and-Excitation Blocks for Multi-Target Property Prediction in Additively Manufactured Fiber Reinforced Composites](https://arxiv.org/abs/2512.22397)
 - [DBAW-PIKAN: Dynamic Balance Adaptive Weight Kolmogorov-Arnold Neural Network for Solving Partial Differential Equations](https://arxiv.org/abs/2512.22283)
+- [ABFR-KAN: Kolmogorov-Arnold Networks for Functional Brain Analysis](https://arxiv.org/abs/2601.00416)
 
 
 ## Library
