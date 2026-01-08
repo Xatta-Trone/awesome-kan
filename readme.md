@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-January 7, 2026 at 12:58:00 AM UTC
+January 8, 2026 at 12:58:00 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ January 7, 2026 at 12:58:00 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (576)
+## Papers (578)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -618,6 +618,8 @@ January 7, 2026 at 12:58:00 AM UTC
 - [Temporal Kolmogorov-Arnold Networks (T-KAN) for High-Frequency Limit Order Book Forecasting: Efficiency, Interpretability, and Alpha Decay](https://arxiv.org/abs/2601.02310)
 - [KAN-AE with Non-Linearity Score and Symbolic Regression for Energy-Efficient Channel Coding](https://arxiv.org/abs/2601.01598)
 - [Discovering the Gell-Mann-Okubo Formula with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2601.01495)
+- [inRAN: Interpretable Online Bayesian Learning for Network Automation in Open Radio Access Networks](https://arxiv.org/abs/2601.03219)
+- [A Stochastic Genetic Interacting Particle Method for Reaction-Diffusion-Advection Equations](https://arxiv.org/abs/2511.12275)
 
 
 ## Library
