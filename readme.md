@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-January 14, 2026 at 12:59:44 AM UTC
+January 15, 2026 at 12:55:44 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ January 14, 2026 at 12:59:44 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (584)
+## Papers (587)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -626,6 +626,9 @@ January 14, 2026 at 12:59:44 AM UTC
 - [SpectralKAN: Weighted Activation Distribution Kolmogorov-Arnold Network for Hyperspectral Image Change Detection](https://arxiv.org/abs/2407.00949)
 - [Representing Sounds as Neural Amplitude Fields: A Benchmark of Coordinate-MLPs and A Fourier Kolmogorov-Arnold Framework](https://arxiv.org/abs/2601.06406)
 - [Kolmogorov-Arnold Networks-Based Tolerance-Aware Manufacturability Assessment Integrating Design-for-Manufacturing Principles](https://arxiv.org/abs/2601.06334)
+- [Kolmogorov--Arnold stability](https://arxiv.org/abs/2504.05255)
+- [LUT-Compiled Kolmogorov-Arnold Networks for Lightweight DoS Detection on IoT Edge Devices](https://arxiv.org/abs/2601.08044)
+- [An Efficient Additive Kolmogorov-Arnold Transformer for Point-Level Maize Localization in Unmanned Aerial Vehicle Imagery](https://arxiv.org/abs/2601.07975)
 
 
 ## Library
