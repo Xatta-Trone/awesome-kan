@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-January 21, 2026 at 12:59:04 AM UTC
+January 22, 2026 at 12:59:04 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ January 21, 2026 at 12:59:04 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (593)
+## Papers (595)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -635,6 +635,8 @@ January 21, 2026 at 12:59:04 AM UTC
 - [Shallow-KAN Based Solution of Moving Boundary PDEs](https://arxiv.org/abs/2601.09818)
 - [Learning Ecological and Epidemic Processes using Neural ODEs, Kolmogorov-Arnold Network ODEs and SINDy](https://arxiv.org/abs/2601.09811)
 - [KANHedge: Efficient Hedging of High-Dimensional Options Using Kolmogorov-Arnold Network-Based BSDE Solver](https://arxiv.org/abs/2601.11097)
+- [Quasi-periodic Dynamics for Multi-dimensional Quasi-linear Schrödinger Equations via Resonant Mode Control](https://arxiv.org/abs/2601.13611)
+- [An Efficient and Explainable KAN Framework forWireless Radiation Field Prediction](https://arxiv.org/abs/2601.11656)
 
 
 ## Library
