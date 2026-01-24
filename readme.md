@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-January 23, 2026 at 12:58:47 AM UTC
+January 24, 2026 at 12:56:18 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ January 23, 2026 at 12:58:47 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (596)
+## Papers (598)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -638,6 +638,8 @@ January 23, 2026 at 12:58:47 AM UTC
 - [Quasi-periodic Dynamics for Multi-dimensional Quasi-linear Schrödinger Equations via Resonant Mode Control](https://arxiv.org/abs/2601.13611)
 - [An Efficient and Explainable KAN Framework forWireless Radiation Field Prediction](https://arxiv.org/abs/2601.11656)
 - [Architectural Scaling Surpass Basis Complexity? Efficient KANs with Single-Parameter Design](https://arxiv.org/abs/2410.14951)
+- [AI-Based Culvert-Sewer Inspection](https://arxiv.org/abs/2601.15366)
+- [Learning Nonlinear Heterogeneity in Physical Kolmogorov-Arnold Networks](https://arxiv.org/abs/2601.15340)
 
 
 ## Library
