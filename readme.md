@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-January 28, 2026 at 12:58:41 AM UTC
+January 29, 2026 at 01:06:28 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ January 28, 2026 at 12:58:41 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (600)
+## Papers (605)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -642,6 +642,11 @@ January 28, 2026 at 12:58:41 AM UTC
 - [Learning Nonlinear Heterogeneity in Physical Kolmogorov-Arnold Networks](https://arxiv.org/abs/2601.15340)
 - [A Dynamic Framework for Grid Adaptation in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2601.18672)
 - [Kolmogorov-Arnold graph neural networks for chemically informed prediction tasks on inorganic nanomaterials](https://arxiv.org/abs/2512.19494)
+- [Fixed Aggregation Features Can Rival GNNs](https://arxiv.org/abs/2601.19449)
+- [An Efficient and Explainable KAN Framework for Wireless Radiation Field Prediction](https://arxiv.org/abs/2601.11656)
+- [Learning constitutive laws under explicit strain limits: An interpretable strain-limiting elasticity--Kolmogorov Arnold neural network framework](https://arxiv.org/abs/2601.18854)
+- [Time series forecasting with Hahn Kolmogorov-Arnold networks](https://arxiv.org/abs/2601.18837)
+- [LabelKAN -- Kolmogorov-Arnold Networks for Inter-Label Learning: Avian Community Learning](https://arxiv.org/abs/2601.18818)
 
 
 ## Library
