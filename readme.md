@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-February 2, 2026 at 01:10:35 AM UTC
+February 3, 2026 at 01:10:52 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ February 2, 2026 at 01:10:35 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (609)
+## Papers (611)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -651,6 +651,8 @@ February 2, 2026 at 01:10:35 AM UTC
 - [Kolmogorov-Arnold Networks Applied to Materials Property Prediction](https://arxiv.org/abs/2601.20097)
 - [Vision KAN: Towards an Attention-Free Backbone for Vision with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2601.21541)
 - [Turbulence from First Principles](https://arxiv.org/abs/2403.07950)
+- [Agile Reinforcement Learning through Separable Neural Architecture](https://arxiv.org/abs/2601.23225)
+- [Optimization, Generalization and Differential Privacy Bounds for Gradient Descent on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2601.22409)
 
 
 ## Library
