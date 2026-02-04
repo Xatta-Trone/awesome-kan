@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-February 3, 2026 at 01:10:52 AM UTC
+February 4, 2026 at 01:06:05 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ February 3, 2026 at 01:10:52 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (611)
+## Papers (618)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -653,6 +653,13 @@ February 3, 2026 at 01:10:52 AM UTC
 - [Turbulence from First Principles](https://arxiv.org/abs/2403.07950)
 - [Agile Reinforcement Learning through Separable Neural Architecture](https://arxiv.org/abs/2601.23225)
 - [Optimization, Generalization and Differential Privacy Bounds for Gradient Descent on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2601.22409)
+- [SurvKAN: A Fully Parametric Survival Model Based on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2602.02179)
+- [Ultrafast On-chip Online Learning via Spline Locality in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2602.02056)
+- [PINN-Based Kolmogorov-Arnold Networks with RAR-D Adaptive Sampling for Solving Elliptic Interface Problems](https://arxiv.org/abs/2602.01876)
+- [MGKAN: Predicting Asymmetric Drug-Drug Interactions via a Multimodal Graph Kolmogorov-Arnold Network](https://arxiv.org/abs/2602.01751)
+- [The Enhanced Physics-Informed Kolmogorov-Arnold Networks: Applications of Newton's Laws in Financial Deep Reinforcement Learning (RL) Algorithms](https://arxiv.org/abs/2602.01388)
+- [KAN We Flow? Advancing Robotic Manipulation with 3D Flow Matching via KAN & RWKV](https://arxiv.org/abs/2602.01115)
+- [Kolmogorov-Arnold Energy Models: Fast, Interpretable Generative Modeling](https://arxiv.org/abs/2506.14167)
 
 
 ## Library
