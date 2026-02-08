@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-February 6, 2026 at 01:06:25 AM UTC
+February 8, 2026 at 01:28:34 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ February 6, 2026 at 01:06:25 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (622)
+## Papers (624)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -664,6 +664,8 @@ February 6, 2026 at 01:06:25 AM UTC
 - [KANFIS A Neuro-Symbolic Framework for Interpretable and Uncertainty-Aware Learning](https://arxiv.org/abs/2602.03034)
 - [Synergizing Kolmogorov-Arnold Networks with Dynamic Adaptive Weighting for High-Frequency and Multi-Scale PDE Solutions](https://arxiv.org/abs/2512.22283)
 - [TruKAN: Towards More Efficient Kolmogorov-Arnold Networks Using Truncated Power Functions](https://arxiv.org/abs/2602.03879)
+- [Clifford Kolmogorov-Arnold Networks](https://arxiv.org/abs/2602.05977)
+- [KANFIS: A Neuro-Symbolic Framework for Interpretable and Uncertainty-Aware Learning](https://arxiv.org/abs/2602.03034)
 
 
 ## Library
