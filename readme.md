@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-February 10, 2026 at 01:21:13 AM UTC
+February 11, 2026 at 01:19:10 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ February 10, 2026 at 01:21:13 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (627)
+## Papers (634)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -669,6 +669,13 @@ February 10, 2026 at 01:21:13 AM UTC
 - [Using correlation diagrams to study the vibrational spectrum of highly nonlinear floppy molecules: The K-CN case](https://arxiv.org/abs/2602.06881)
 - [Optimal Abstractions for Verifying Properties of Kolmogorov-Arnold Networks (KANs)](https://arxiv.org/abs/2602.06737)
 - [MGP-KAD: Multimodal Geometric Priors and Kolmogorov-Arnold Decoder for Single-View 3D Reconstruction in Complex Scenes](https://arxiv.org/abs/2602.06158)
+- [A coupled Kolmogorov-Arnold Network and Level-Set framework for evolving interfaces](https://arxiv.org/abs/2601.09818)
+- [Efficient Graph Knowledge Distillation from GNNs to Kolmogorov--Arnold Networks via Self-Attention Dynamic Sampling](https://arxiv.org/abs/2509.00560)
+- [A hybrid Kolmogorov-Arnold network for medical image segmentation](https://arxiv.org/abs/2602.07702)
+- [Spectral Gating Networks](https://arxiv.org/abs/2602.07679)
+- [Enhancing Newton-Kaczmarz training of Kolmogorov-Arnold networks through concurrency](https://arxiv.org/abs/2512.18921)
+- [Physical Analog Kolmogorov-Arnold Networks based on Reconfigurable Nonlinear-Processing Units](https://arxiv.org/abs/2602.07518)
+- [Learning to Anchor Visual Odometry: KAN-Based Pose Regression for Planetary Landing](https://arxiv.org/abs/2602.06968)
 
 
 ## Library
