@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-February 24, 2026 at 01:09:03 AM UTC
+February 25, 2026 at 01:14:56 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ February 24, 2026 at 01:09:03 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (645)
+## Papers (647)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -687,6 +687,8 @@ February 24, 2026 at 01:09:03 AM UTC
 - [A Graph Meta-Network for Learning on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2602.16316)
 - [Numerical Construction of Quasi-Periodic Solutions Beyond Symplectic Integrators](https://arxiv.org/abs/2602.16275)
 - [Inelastic Constitutive Kolmogorov-Arnold Networks: A generalized framework for automated discovery of interpretable inelastic material models](https://arxiv.org/abs/2602.17750)
+- [Spectral bias in physics-informed and operator learning: Analysis and mitigation guidelines](https://arxiv.org/abs/2602.19265)
+- [Weak-Form Evolutionary Kolmogorov-Arnold Networks for Solving Partial Differential Equations](https://arxiv.org/abs/2602.18515)
 
 
 ## Library
