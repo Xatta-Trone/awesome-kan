@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-March 10, 2026 at 01:04:39 AM UTC
+March 11, 2026 at 01:05:22 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ March 10, 2026 at 01:04:39 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (659)
+## Papers (660)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -701,6 +701,7 @@ March 10, 2026 at 01:04:39 AM UTC
 - [Invariant Curves and the Variational Structure in Tubular Origami Dynamical Systems](https://arxiv.org/abs/2603.02410)
 - [Multilevel Training for Kolmogorov Arnold Networks](https://arxiv.org/abs/2603.04827)
 - [Concurrent training methods for Kolmogorov-Arnold networks: Disjoint datasets and FPGA implementation](https://arxiv.org/abs/2512.18921)
+- [DualFlexKAN: Dual-stage Kolmogorov-Arnold Networks with Independent Function Control](https://arxiv.org/abs/2603.08583)
 
 
 ## Library
