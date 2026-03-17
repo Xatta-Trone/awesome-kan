@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-March 16, 2026 at 01:18:44 AM UTC
+March 17, 2026 at 01:10:21 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ March 16, 2026 at 01:18:44 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (660)
+## Papers (661)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -702,6 +702,7 @@ March 16, 2026 at 01:18:44 AM UTC
 - [Multilevel Training for Kolmogorov Arnold Networks](https://arxiv.org/abs/2603.04827)
 - [Concurrent training methods for Kolmogorov-Arnold networks: Disjoint datasets and FPGA implementation](https://arxiv.org/abs/2512.18921)
 - [DualFlexKAN: Dual-stage Kolmogorov-Arnold Networks with Independent Function Control](https://arxiv.org/abs/2603.08583)
+- [Towards Faithful Multimodal Concept Bottleneck Models](https://arxiv.org/abs/2603.13163)
 
 
 ## Library
