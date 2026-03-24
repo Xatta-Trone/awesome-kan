@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-March 23, 2026 at 01:14:52 AM UTC
+March 24, 2026 at 01:07:46 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ March 23, 2026 at 01:14:52 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (669)
+## Papers (670)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -711,6 +711,7 @@ March 23, 2026 at 01:14:52 AM UTC
 - [HMAR: Hierarchical Modality-Aware Expert and Dynamic Routing Medical Image Retrieval Architecture](https://arxiv.org/abs/2603.16679)
 - [SINDy-KANs: Sparse identification of non-linear dynamics through Kolmogorov-Arnold networks](https://arxiv.org/abs/2603.18548)
 - [A Structured Nonparametric Framework for Nonlinear Accelerated Failure Time Models (KAN-AFT)](https://arxiv.org/abs/2512.20305)
+- [Kolmogorov-Arnold causal generative models](https://arxiv.org/abs/2603.20184)
 
 
 ## Library
