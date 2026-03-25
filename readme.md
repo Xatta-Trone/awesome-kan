@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-March 24, 2026 at 01:07:46 AM UTC
+March 25, 2026 at 01:13:13 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ March 24, 2026 at 01:07:46 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (670)
+## Papers (672)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -712,6 +712,8 @@ March 24, 2026 at 01:07:46 AM UTC
 - [SINDy-KANs: Sparse identification of non-linear dynamics through Kolmogorov-Arnold networks](https://arxiv.org/abs/2603.18548)
 - [A Structured Nonparametric Framework for Nonlinear Accelerated Failure Time Models (KAN-AFT)](https://arxiv.org/abs/2512.20305)
 - [Kolmogorov-Arnold causal generative models](https://arxiv.org/abs/2603.20184)
+- [YOLOv10 with Kolmogorov-Arnold networks and vision-language foundation models for interpretable object detection and trustworthy multimodal AI in computer vision perception](https://arxiv.org/abs/2603.23037)
+- [Many-body mobility edges in one dimension revealed by efficient and interpretable feature-based learning with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2603.21807)
 
 
 ## Library
