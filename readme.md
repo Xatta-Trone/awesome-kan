@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-March 31, 2026 at 01:19:35 AM UTC
+April 1, 2026 at 01:26:21 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ March 31, 2026 at 01:19:35 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (675)
+## Papers (678)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -717,6 +717,9 @@ March 31, 2026 at 01:19:35 AM UTC
 - [Symbolic--KAN: Kolmogorov-Arnold Networks with Discrete Symbolic Structure for Interpretable Learning](https://arxiv.org/abs/2603.23854)
 - [Catalytic Coherence Amplification for Quantum State Recovery: Theory, Numerical Validation, and Comparison with Conventional Error Correction](https://arxiv.org/abs/2603.25774)
 - [KANEL: Kolmogorov-Arnold Network Ensemble Learning Enables Early Hit Enrichment in High-Throughput Virtual Screening](https://arxiv.org/abs/2603.25755)
+- [KAN-LSTM: Benchmarking Kolmogorov-Arnold Networks for Cyber Security Threat Detection in IoT Networks](https://arxiv.org/abs/2603.28985)
+- [FI-KAN: Fractal Interpolation Kolmogorov-Arnold Networks](https://arxiv.org/abs/2603.28288)
+- [Nonlinear Factor Decomposition via Kolmogorov-Arnold Networks: A Spectral Approach to Asset Return Analysis](https://arxiv.org/abs/2603.28257)
 
 
 ## Library
