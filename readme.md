@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-April 2, 2026 at 01:16:36 AM UTC
+April 3, 2026 at 01:19:11 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ April 2, 2026 at 01:16:36 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (679)
+## Papers (680)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -721,6 +721,7 @@ April 2, 2026 at 01:16:36 AM UTC
 - [FI-KAN: Fractal Interpolation Kolmogorov-Arnold Networks](https://arxiv.org/abs/2603.28288)
 - [Nonlinear Factor Decomposition via Kolmogorov-Arnold Networks: A Spectral Approach to Asset Return Analysis](https://arxiv.org/abs/2603.28257)
 - [Explainable Functional Relation Discovery for Battery State-of-Health Using Kolmogorov-Arnold Network](https://arxiv.org/abs/2604.00400)
+- [Light-ResKAN: A Parameter-Sharing Lightweight KAN with Gram Polynomials for Efficient SAR Image Recognition](https://arxiv.org/abs/2604.01903)
 
 
 ## Library
