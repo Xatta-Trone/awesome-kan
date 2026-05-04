@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-May 3, 2026 at 01:50:13 AM UTC
+May 4, 2026 at 01:50:59 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ May 3, 2026 at 01:50:13 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (705)
+## Papers (707)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -747,6 +747,8 @@ May 3, 2026 at 01:50:13 AM UTC
 - [DecompKAN: Decomposed Patch-KAN for Long-Term Time Series Forecasting](https://arxiv.org/abs/2604.23968)
 - [Necessary and sufficient conditions for universality of Kolmogorov-Arnold networks](https://arxiv.org/abs/2604.23765)
 - [Layer-wise Lipschitz-Product Control for Deep Kolmogorov--Arnold Network Representations of Compositionally Structured Functions](https://arxiv.org/abs/2604.26444)
+- [Distance-Aware Error for Spline Networks: A Bottom-Up Approach to Uncertainty](https://arxiv.org/abs/2501.04757)
+- [RoboKA: KAN Informed Multimodal Learning for RoboCall Surveillance System](https://arxiv.org/abs/2605.00156)
 
 
 ## Library
