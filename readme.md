@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-May 11, 2026 at 02:02:37 AM UTC
+May 12, 2026 at 01:59:35 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ May 11, 2026 at 02:02:37 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (714)
+## Papers (719)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -756,6 +756,11 @@ May 11, 2026 at 02:02:37 AM UTC
 - [Scale-Parameter Selection in Gaussian Kolmogorov-Arnold Networks](https://arxiv.org/abs/2604.21174)
 - [Deep-Koopman-KANDy: Dictionary Discovery for Deep-Koopman Operators with Kolmogorov-Arnold Networks for Dynamics](https://arxiv.org/abs/2605.06000)
 - [Temporal Functional Circuits: From Spline Plots to Faithful Explanations in KAN Forecasting](https://arxiv.org/abs/2605.05685)
+- [A Glass-Box Deep-Learning Method for Electrical Energy System Modeling Based on Kolmogorov-Arnold Network](https://arxiv.org/abs/2409.08044)
+- [Neural Operators as Efficient Function Interpolators](https://arxiv.org/abs/2605.07792)
+- [Towards Intelligent Low-Altitude Wireless Network Deployment: Differentiable Channel Knowledge Map Construction and Trajectory Design](https://arxiv.org/abs/2605.07163)
+- [Geometric Kolmogorov--Arnold Network (GeoKAN)](https://arxiv.org/abs/2605.06740)
+- [Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning](https://arxiv.org/abs/2605.06734)
 
 
 ## Library
