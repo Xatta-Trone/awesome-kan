@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-June 2, 2026 at 02:36:07 AM UTC
+June 3, 2026 at 02:43:54 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ June 2, 2026 at 02:36:07 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (746)
+## Papers (748)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -788,6 +788,8 @@ June 2, 2026 at 02:36:07 AM UTC
 - [Kolmogorov--Arnold Networks as Implicit Regularizers: Noise Robustness and Interpretability for Stellar Classification](https://arxiv.org/abs/2605.29039)
 - [Sinc Kolmogorov-Arnold network and its application for solving PDEs with singularities](https://arxiv.org/abs/2410.04096)
 - [Enhancing BiGRU with a KAN Block for Legal Document Classification and Summarization](https://arxiv.org/abs/2606.00116)
+- [Hierarchical RBF-KAN and RBF-SKAN Architectures for Multidimensional Function Approximation and Random Field Learning](https://arxiv.org/abs/2606.02936)
+- [Neural Spectral Element Methods for stiff multiphysics PDEs with electrochemical transport benchmarks](https://arxiv.org/abs/2606.02335)
 
 
 ## Library
