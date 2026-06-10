@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-June 8, 2026 at 02:36:05 AM UTC
+June 10, 2026 at 02:13:38 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ June 8, 2026 at 02:36:05 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (751)
+## Papers (756)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -793,6 +793,11 @@ June 8, 2026 at 02:36:05 AM UTC
 - [PHKT:Personalized Dynamic Hypergraph-enhanced KAN-Transformer for Multi-behavior Sequential Recommendation](https://arxiv.org/abs/2606.05537)
 - [MOSAIC: A Workload-Driven Simulation and Design-Space Exploration Framework for Heterogeneous NPUs](https://arxiv.org/abs/2606.05362)
 - [BIDENT: Heterogeneous Operator-level Mapping for Efficient Edge Inference](https://arxiv.org/abs/2606.05271)
+- [An adaptive framework for the axisymmetric pulsar magnetosphere using physics-informed Kolmogorov-Arnold networks](https://arxiv.org/abs/2606.10686)
+- [DKEKAN: A single-parameterized KAN surrogate for Drift Kinetic Equation Toward Fast Neoclassical Toroidal Viscosity Torque Modeling in Tokamaks](https://arxiv.org/abs/2606.10310)
+- [Algebraic Kolmogorov--Arnold representation theorem for quantum measurement](https://arxiv.org/abs/2606.09584)
+- [Model Risk in Machine-Learning Distributional IV Estimation](https://arxiv.org/abs/2506.12765)
+- [Inferring hidden forcing in a biological oscillator using Kolmogorov-Arnold networks](https://arxiv.org/abs/2606.08479)
 
 
 ## Library
