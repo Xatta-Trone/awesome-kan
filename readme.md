@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-June 23, 2026 at 02:08:22 AM UTC
+June 24, 2026 at 02:10:13 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ June 23, 2026 at 02:08:22 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (764)
+## Papers (774)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -806,6 +806,16 @@ June 23, 2026 at 02:08:22 AM UTC
 - [Quantum-classical physics-informed Kolmogorov-Arnold networks for PDEs](https://arxiv.org/abs/2606.20326)
 - [Kolmogorov-Arnold Reservoir Computing](https://arxiv.org/abs/2606.19984)
 - [Neural Architectures as Functional Priors in Physics-Informed Control Problems](https://arxiv.org/abs/2606.19368)
+- [KANLib -- A Modular, Extensible and Fast Kolmogorov-Arnold Network Implementation](https://arxiv.org/abs/2606.17927)
+- [Structural Kolmogorov-Arnold Convolutions: Learnable Function on the Values or the Filter Shape as Parameter-Efficient Alternative to Per-Edge Convolutional KANs](https://arxiv.org/abs/2606.24371)
+- [MVG-KAN: Multi-View Geo-Wind Guided KAN for PM_{2.5}_{2.5} Forecasting](https://arxiv.org/abs/2606.24347)
+- [It's Much Easier for Neural Networks to learn Game of Life Dynamics with the Right Activation Function: Polynomial Kolmogorov-Arnold Networks](https://arxiv.org/abs/2606.23587)
+- [Interpretable Kolmogorov-Arnold Network with Feature-Isolated Temporal Attention Mechanism for Electricity Load Forecasting](https://arxiv.org/abs/2606.23425)
+- [Low-power analogue neural networks with trainable nonlinear connections for continuous control](https://arxiv.org/abs/2606.23742)
+- [From Handcrafted Features to Functional Edge Learning: Evolution of EEG Seizure Detection Frameworks](https://arxiv.org/abs/2606.22258)
+- [Ultrafast On-Chip Online Learning via Spline Locality in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2602.02056)
+- [Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack](https://arxiv.org/abs/2606.21210)
+- [DPD-KAN: Kolmogorov-Arnold Networks for Low Complexity Digital Predistortion in 5G Analog Radio-over-Fiber Systems](https://arxiv.org/abs/2606.21178)
 
 
 ## Library
