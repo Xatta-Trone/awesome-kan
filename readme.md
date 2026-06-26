@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-June 25, 2026 at 02:10:12 AM UTC
+June 26, 2026 at 02:12:03 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ June 25, 2026 at 02:10:12 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (776)
+## Papers (779)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -818,6 +818,9 @@ June 25, 2026 at 02:10:12 AM UTC
 - [DPD-KAN: Kolmogorov-Arnold Networks for Low Complexity Digital Predistortion in 5G Analog Radio-over-Fiber Systems](https://arxiv.org/abs/2606.21178)
 - [Delta-Position Estimation-Based IMU Odometry: A Comparison of MLP and Kolmogorov-Arnold Networks](https://arxiv.org/abs/2606.25454)
 - [Interpretable Concept-Guided Polynomial Tabular Kolmogorov-Arnold Network for EEG-Based Mild Cognitive Impairment Detection](https://arxiv.org/abs/2606.25434)
+- [A hybrid IFENN solver for generalizable modeling of phase-field fracture initiation and propagation](https://arxiv.org/abs/2606.27177)
+- [Kolmogorov Arnold networks (KAN) for aerodynamic prediction: a comparison with MLPs and GNNs](https://arxiv.org/abs/2606.27126)
+- [Low Complexity Kolmogorov-Arnold Network-based DPD for Analog RoF Fronthaul](https://arxiv.org/abs/2606.27042)
 
 
 ## Library
