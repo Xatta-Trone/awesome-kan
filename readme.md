@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-July 3, 2026 at 01:53:12 AM UTC
+July 4, 2026 at 01:52:25 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ July 3, 2026 at 01:53:12 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (785)
+## Papers (786)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -827,6 +827,7 @@ July 3, 2026 at 01:53:12 AM UTC
 - [MVG-KAN: Multi-View Geo-Wind Guided KAN for PM2.5_{2.5} Forecasting](https://arxiv.org/abs/2606.24347)
 - [Sharp regularity of a weighted Sobolev space over Tn \mathbb{T}^n  and its relation to finitely differentiable KAM theory](https://arxiv.org/abs/2604.04665)
 - [Quantum advantage prediction in turbulent free-space quantum illumination](https://arxiv.org/abs/2607.00308)
+- [Geometry-Aware R-Structured Kolmogorov-Arnold Networks](https://arxiv.org/abs/2607.01449)
 
 
 ## Library
