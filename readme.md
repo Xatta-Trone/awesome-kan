@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-August 10, 2026 at 12:54:17 AM UTC
+August 11, 2026 at 12:53:42 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ August 10, 2026 at 12:54:17 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (817)
+## Papers (819)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -859,6 +859,8 @@ August 10, 2026 at 12:54:17 AM UTC
 - [TravKAN: Fast and Interpretable Nonlinear Traversability Analysis with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2608.02320)
 - [A Comparative Analysis of MLP and Kolmogorov-Arnold Networks (KAN) for Faster-than-Nyquist (FTN) Signaling Detection](https://arxiv.org/abs/2608.02062)
 - [BiKAN: Restoring Collapsed Basis of Binary Kolmogorov--Arnold Networks](https://arxiv.org/abs/2608.01490)
+- [CT-PIKAN: Coordinate-Transformed Physics-Informed Kolmogorov-Arnold Network with Autograd-Based Metric Evaluation for Solving PDEs in Curvilinear Domains](https://arxiv.org/abs/2608.06660)
+- [Sharp regularity of a weighted Sobolev space over  \mathbb{T}^n Tn \mathbb{T}^n  and its relation to finitely differentiable KAM theory](https://arxiv.org/abs/2604.04665)
 
 
 ## Library
