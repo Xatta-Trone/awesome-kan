@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-August 12, 2026 at 01:00:13 AM UTC
+August 13, 2026 at 01:01:52 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ August 12, 2026 at 01:00:13 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (820)
+## Papers (824)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -862,6 +862,10 @@ August 12, 2026 at 01:00:13 AM UTC
 - [CT-PIKAN: Coordinate-Transformed Physics-Informed Kolmogorov-Arnold Network with Autograd-Based Metric Evaluation for Solving PDEs in Curvilinear Domains](https://arxiv.org/abs/2608.06660)
 - [Sharp regularity of a weighted Sobolev space over  \mathbb{T}^n Tn \mathbb{T}^n  and its relation to finitely differentiable KAM theory](https://arxiv.org/abs/2604.04665)
 - [Quantum-Classical Physics-Informed Kolmogorov-Arnold Networks for Solving Fuzzy Differential Equations](https://arxiv.org/abs/2608.08782)
+- [HYDRA: Hyperbolic Dynamic Representation Architecture for Kolmogorov-Arnold Networks](https://arxiv.org/abs/2608.12194)
+- [Predicting Functions, Not Features: KANs with Function-Space Joint-Embedding Predictive Learning for Medical Image Segmentation](https://arxiv.org/abs/2608.12050)
+- [Making Gaussian Kolmogorov-Arnold Networks Reliable and Accurate](https://arxiv.org/abs/2604.21174)
+- [KANResDiff: Learning Local Residual Diffusion via Kolmogorov-Arnold Network for Ambiguous Medical Image Segmentation](https://arxiv.org/abs/2608.11617)
 
 
 ## Library
