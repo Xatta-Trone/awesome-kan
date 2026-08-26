@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-August 25, 2026 at 12:37:10 AM UTC
+August 26, 2026 at 12:37:52 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ August 25, 2026 at 12:37:10 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (835)
+## Papers (838)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -877,6 +877,9 @@ August 25, 2026 at 12:37:10 AM UTC
 - [Core-KAN: Continuous Vision Kernels with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2608.19817)
 - [Homoclinic Intersections and the Macroscopic Observability of Arnold Tongues in the Forced-Dissipative Duffing System](https://arxiv.org/abs/2608.19620)
 - [CAT Bond Pricing with Kolmogorov--Arnold Networks](https://arxiv.org/abs/2608.19217)
+- [A Multidimensional Data-Driven Hybrid Transformer Framework for Non-invasive Continuous Blood Pressure Prediction](https://arxiv.org/abs/2608.23276)
+- [Programmable k-local Ising interactions and shallow optical Kolmogorov--Arnold networks through repeated data encounters](https://arxiv.org/abs/2508.17440)
+- [KAN-Robust-Bench: A Benchmark for Evaluating the Robustness of Kolmogorov-Arnold Networks](https://arxiv.org/abs/2608.21488)
 
 
 ## Library
