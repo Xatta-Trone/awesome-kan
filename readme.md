@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-September 1, 2026 at 02:31:21 AM UTC
+September 2, 2026 at 01:52:53 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ September 1, 2026 at 02:31:21 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (843)
+## Papers (845)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -885,6 +885,8 @@ September 1, 2026 at 02:31:21 AM UTC
 - [MSCGC-KAN: Multi-scale Causal Graph Convolution and KAN-inspired Analytic-basis Mapping for EEG Emotion Recognition](https://arxiv.org/abs/2605.26624)
 - [Towards Accurate and Lightweight Peripheral Neuroblastic Tumor Diagnosis via Contrastive Multi-scale Pathological Image Analysis](https://arxiv.org/abs/2504.13754)
 - [Physics-Informed Kolmogorov-Arnold networks for viscoelastic fluid equations](https://arxiv.org/abs/2608.29895)
+- [Explainable deformable matched filtering reveals measurable departures from classical receiver theory in optical wireless communications](https://arxiv.org/abs/2608.30826)
+- [Kolmogorov--Arnold against bounded translations](https://arxiv.org/abs/2608.30710)
 
 
 ## Library
