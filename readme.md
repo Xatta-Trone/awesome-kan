@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-September 16, 2026 at 02:14:11 AM UTC
+September 17, 2026 at 02:18:13 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ September 16, 2026 at 02:14:11 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (865)
+## Papers (867)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -907,6 +907,8 @@ September 16, 2026 at 02:14:11 AM UTC
 - [A train--prune--readout--rewrite workflow for interpretable quantum learning](https://arxiv.org/abs/2609.15139)
 - [Tackling Failure Modes of PINNs and PIKANs Using Conflict-Free Gradients](https://arxiv.org/abs/2609.14841)
 - [EPI-KAN: A Method For Estimating and Forecasting Time-Dependent COVID-19 Parameters](https://arxiv.org/abs/2607.15302)
+- [NObSP: Functional Decomposition of Neural Networks via Oblique Subspace Projections](https://arxiv.org/abs/2609.17825)
+- [Lecture notes on Physics Informed Neural Networks, Neural Operators, and their applications](https://arxiv.org/abs/2609.17638)
 
 
 ## Library
