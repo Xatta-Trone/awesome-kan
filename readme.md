@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-September 21, 2026 at 02:14:16 AM UTC
+September 22, 2026 at 02:18:57 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ September 21, 2026 at 02:14:16 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (869)
+## Papers (874)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -911,6 +911,11 @@ September 21, 2026 at 02:14:16 AM UTC
 - [Lecture notes on Physics Informed Neural Networks, Neural Operators, and their applications](https://arxiv.org/abs/2609.17638)
 - [Weighted Quantum Signal Processing: Low-Depth Polynomial Approximation with Applications to Kolmogorov-Arnold Networks](https://arxiv.org/abs/2609.21567)
 - [Discovery of a dispersion model at high Peclet numbers](https://arxiv.org/abs/2609.21234)
+- [Multivariate quantile regression via Kolmogorov-Arnold Networks](https://arxiv.org/abs/2609.23906)
+- [Physics-Informed Kolmogorov-Arnold Networks for Grad-Shafranov Tokamak Equilibria](https://arxiv.org/abs/2609.23846)
+- [Non-Polynomial Wave Computation through Recurrent Resonant Scattering](https://arxiv.org/abs/2609.22745)
+- [Rethinking Vision Architectures with Gated Linear Attention and KAN](https://arxiv.org/abs/2609.22506)
+- [Glass-Box Deep Learning for FDIA Detection in Nonlinear Automatic Generation Control: A Kolmogorov-Arnold Network Approach](https://arxiv.org/abs/2509.05259)
 
 
 ## Library
