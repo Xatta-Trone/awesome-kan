@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-September 22, 2026 at 02:18:57 AM UTC
+September 23, 2026 at 02:19:04 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ September 22, 2026 at 02:18:57 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (874)
+## Papers (879)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -916,6 +916,11 @@ September 22, 2026 at 02:18:57 AM UTC
 - [Non-Polynomial Wave Computation through Recurrent Resonant Scattering](https://arxiv.org/abs/2609.22745)
 - [Rethinking Vision Architectures with Gated Linear Attention and KAN](https://arxiv.org/abs/2609.22506)
 - [Glass-Box Deep Learning for FDIA Detection in Nonlinear Automatic Generation Control: A Kolmogorov-Arnold Network Approach](https://arxiv.org/abs/2509.05259)
+- [Evaluating the Effectiveness of SechKAN on 1D Data](https://arxiv.org/abs/2609.25876)
+- [Common-Loss Parameter-Efficiency Analysis of MLP and KAN Neural Receivers for Digital Communications](https://arxiv.org/abs/2609.25847)
+- [AKAPINN: Adaptive Kolmogorov-Arnold Physics-Informed Neural Networks for approximating solutions to quasilinear partial differential equations](https://arxiv.org/abs/2609.25507)
+- [TESSERA: A Workload-Driven Simulation and Design-Space Exploration Framework for Heterogeneous NPUs](https://arxiv.org/abs/2606.05362)
+- [FuncCode: Compressing Kolmogorov--Arnold Networks in Function Space with Hardware-Aware Quantization](https://arxiv.org/abs/2609.26067)
 
 
 ## Library
