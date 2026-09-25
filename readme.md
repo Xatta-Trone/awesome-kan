@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-September 24, 2026 at 02:06:21 AM UTC
+September 25, 2026 at 02:23:33 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ September 24, 2026 at 02:06:21 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (880)
+## Papers (882)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -922,6 +922,8 @@ September 24, 2026 at 02:06:21 AM UTC
 - [TESSERA: A Workload-Driven Simulation and Design-Space Exploration Framework for Heterogeneous NPUs](https://arxiv.org/abs/2606.05362)
 - [FuncCode: Compressing Kolmogorov--Arnold Networks in Function Space with Hardware-Aware Quantization](https://arxiv.org/abs/2609.26067)
 - [Learning Spectral Allocation: A Fractional Diffusion Framework for Adaptive Volumetric Segmentation](https://arxiv.org/abs/2609.27217)
+- [Learning Inspiral-Merger-Ringdown Waveforms from a Post-Newtonian Baseline](https://arxiv.org/abs/2609.29115)
+- [Revalidation Beats Stateful Routing for Scientific Surrogates Under Distribution Shift](https://arxiv.org/abs/2609.29715)
 
 
 ## Library
