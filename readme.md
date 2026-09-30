@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-September 29, 2026 at 03:11:05 AM UTC
+September 30, 2026 at 02:53:21 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ September 29, 2026 at 03:11:05 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (885)
+## Papers (893)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -927,6 +927,14 @@ September 29, 2026 at 03:11:05 AM UTC
 - [Seasonal and Quantum-inspired Models for Neutron Monitor Time Series Forecasting](https://arxiv.org/abs/2609.30281)
 - [Safe Greenhouse Climate Control Using Lagrangian-Constrained PPO with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2609.34966)
 - [Fisher Simplicity in Kolmogorov-Arnold Networks and Multilayer Perceptrons](https://arxiv.org/abs/2609.32503)
+- [Neural topology optimization of ship structures under propulsion machinery vibrations](https://arxiv.org/abs/2609.38089)
+- [Kolmogorov-Arnold Classifier Systems as Universal Approximators](https://arxiv.org/abs/2609.37958)
+- [Explainable Machine Learning for Multilayer Planar Winding Inductance Estimation](https://arxiv.org/abs/2609.37211)
+- [Digital Twin Modeling of Quantum Dynamical Systems: Dissipative Quantum Reservoir Computing](https://arxiv.org/abs/2609.36901)
+- [Sticky eigenstates in systems with sharply divided phase space](https://arxiv.org/abs/2512.05627)
+- [Lossless Compression of Lookup Tables for Hardware Applications](https://arxiv.org/abs/2609.36634)
+- [Hardware-Aware Functional Kolmogorov-Arnold Networks for Efficient Medical Image Enhancement and Segmentation](https://arxiv.org/abs/2609.36134)
+- [Optimization Risk Bounds for Kolmogorov-Arnold Networks Trained by DP-SGD with Correlated Noise](https://arxiv.org/abs/2605.12648)
 
 
 ## Library
