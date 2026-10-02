@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-October 1, 2026 at 02:59:42 AM UTC
+October 2, 2026 at 03:02:11 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ October 1, 2026 at 02:59:42 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (896)
+## Papers (899)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -938,6 +938,9 @@ October 1, 2026 at 02:59:42 AM UTC
 - [Hyperspectral Image Models: Technical Report](https://arxiv.org/abs/2609.39871)
 - [Mesh-Free Numerical Approximation of the Biharmonic Equation via Optimized Kolmogorov--Arnold Neural Networks](https://arxiv.org/abs/2609.39469)
 - [DiFF: Doppler-informed Flow Matching for Human Motion Flow](https://arxiv.org/abs/2609.39098)
+- [Kolmogorov-Arnold Networks for Free-Boundary Partial Differential Equations](https://arxiv.org/abs/2610.02084)
+- [Neural scaling laws and evolution of learnable activation functions of Kolmogorov-Arnold networks](https://arxiv.org/abs/2610.00985)
+- [SW-KAN: Kolmogorov-Arnold Networks with Stieltjes-Wigert q-Orthogonal Polynomials](https://arxiv.org/abs/2610.00050)
 
 
 ## Library
