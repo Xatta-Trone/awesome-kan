@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-October 5, 2026 at 02:55:03 AM UTC
+October 6, 2026 at 03:44:48 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ October 5, 2026 at 02:55:03 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (902)
+## Papers (906)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -944,6 +944,10 @@ October 5, 2026 at 02:55:03 AM UTC
 - [A PyTorch Library for Hyperspectral Image Models: Technical Report](https://arxiv.org/abs/2609.39871)
 - [Higher-Order Kolmogorov-Arnold Networks for Dynamics](https://arxiv.org/abs/2610.02637)
 - [Evaluation of Sampling Strategies and Physics-Informed Kolmogorov--Arnold Networks in Unbounded Domains](https://arxiv.org/abs/2512.12074)
+- [IGA-KAN: Isogeometric Analysis with Physics-Informed Closed-Form Kolmogorov-Arnold Networks for Forward and Inverse PDEs](https://arxiv.org/abs/2610.06348)
+- [Kolmogorov-Arnold Networks for Personal Context Recognition on ExtraSensory](https://arxiv.org/abs/2610.05250)
+- [Arithmetic Actor Heads and Training Stabilization for Out-of-Distribution Reinforcement Learning](https://arxiv.org/abs/2610.05143)
+- [Neural Network Solvers for Nonlinear ODEs: Benchmarking MLPs and B-Spline/Chebyshev KANs](https://arxiv.org/abs/2610.03783)
 
 
 ## Library
