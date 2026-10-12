@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-October 11, 2026 at 02:46:39 AM UTC
+October 12, 2026 at 03:09:59 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ October 11, 2026 at 02:46:39 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (912)
+## Papers (914)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -954,6 +954,8 @@ October 11, 2026 at 02:46:39 AM UTC
 - [Robust Prediction of Internal Wave-Affected Multi-Scale Sound Speed Distribution Using Lightweight Kolmogorov-Arnold Networks with Hybrid Basis Functions](https://arxiv.org/abs/2610.10877)
 - [A mesh-based neural energy method for the simulation of heterogeneous composites](https://arxiv.org/abs/2610.10862)
 - [Sample-Efficiency of Kolmogorov-Arnold Networks](https://arxiv.org/abs/2610.10627)
+- [Low-Rank Kolmogorov-Arnold Generator Flows for Interpretable Operator Learning](https://arxiv.org/abs/2610.13028)
+- [Polyconvex neural-network surrogates with learned paired directional features for anisotropic hyperelastic homogenization](https://arxiv.org/abs/2610.12801)
 
 
 ## Library
