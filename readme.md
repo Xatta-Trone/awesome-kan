@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-October 15, 2026 at 02:15:51 AM UTC
+October 16, 2026 at 02:07:52 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ October 15, 2026 at 02:15:51 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (921)
+## Papers (924)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -963,6 +963,9 @@ October 15, 2026 at 02:15:51 AM UTC
 - [HankelKANet: Lightweight Path Loss Estimation via Physics-Inspired Hankel Convolution](https://arxiv.org/abs/2610.19524)
 - [Physics-Informed Deep Learning in Oncology](https://arxiv.org/abs/2610.18682)
 - [Hybrid Parallel Bessel KAN Model: a Kolmogorov Arnold Network: integrated framework for developing a novel architecture to reconstruct the fused-basis approach via a parameter free quadratic interaction](https://arxiv.org/abs/2610.17779)
+- [SUPN: Shallow Universal Polynomial Networks for Efficient Function Approximation](https://arxiv.org/abs/2511.21414)
+- [Kolmogorov-Arnold Networks: Curse of Dimensionality and Structural Bias](https://arxiv.org/abs/2610.21480)
+- [Physics-informed Kolmogorov-Arnold networks (PIKANs) for noise-robust reconstruction of boiling heat flux from infrared measurements](https://arxiv.org/abs/2610.20613)
 
 
 ## Library
