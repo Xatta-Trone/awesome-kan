@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-October 19, 2026 at 02:17:39 AM UTC
+October 20, 2026 at 02:32:16 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ October 19, 2026 at 02:17:39 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (925)
+## Papers (927)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -967,6 +967,8 @@ October 19, 2026 at 02:17:39 AM UTC
 - [Kolmogorov-Arnold Networks: Curse of Dimensionality and Structural Bias](https://arxiv.org/abs/2610.21480)
 - [Physics-informed Kolmogorov-Arnold networks (PIKANs) for noise-robust reconstruction of boiling heat flux from infrared measurements](https://arxiv.org/abs/2610.20613)
 - [A Class of Rényi-based Concentration Metrics for Kolmogorov-Arnold Geometry in Multilayer Perceptrons](https://arxiv.org/abs/2610.23267)
+- [Out-of-Distribution Detection in Continual Learning](https://arxiv.org/abs/2610.25901)
+- [FHKAN: Fractional Hermite Kolmogorov-Arnold Networks for Data-Driven and Physics-Informed Learning](https://arxiv.org/abs/2610.25148)
 
 
 ## Library
