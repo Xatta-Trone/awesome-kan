@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-October 26, 2026 at 02:12:24 AM UTC
+October 27, 2026 at 02:49:09 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ October 26, 2026 at 02:12:24 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (931)
+## Papers (932)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -973,6 +973,7 @@ October 26, 2026 at 02:12:24 AM UTC
 - [A KAN-based Non-linear Factorization for Embedding Layer Compression](https://arxiv.org/abs/2610.29424)
 - [I2^2-KAN: Interpretable Intra- and Inter-Modal Multi-Pathway Representation Learning for Multimodal Sentiment Analysis](https://arxiv.org/abs/2610.31087)
 - [GeoDiv KAN Solver for Time Fractional Navier Stokes Equations on Complex Domains to Realistic CFD Reconstruction](https://arxiv.org/abs/2610.30179)
+- [Edge-Centric Adaptive Neural Activation via Parametric Tanh Functions](https://arxiv.org/abs/2610.34154)
 
 
 ## Library
