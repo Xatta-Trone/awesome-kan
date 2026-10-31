@@ -22,8 +22,8 @@ jobs:
       - run: node parser/1-arxiv-parser.js
       - run: node parser/2-update-readme.js
       - run: |
-            git config user.name  "xatta-trone"
-            git config user.email "22274105+actions-user@users.noreply.github.com"
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
             git add -f 'readme.md'
             git commit -m "🤖 Auto commit by Gihub Actions Bot 🤖"
             git push --force
